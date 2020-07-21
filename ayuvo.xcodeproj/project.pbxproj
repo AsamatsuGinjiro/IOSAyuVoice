@@ -14,6 +14,9 @@
 		3352269224C6C43100488DD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3352269024C6C43100488DD2 /* Main.storyboard */; };
 		3352269424C6C43400488DD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3352269324C6C43400488DD2 /* Assets.xcassets */; };
 		3352269724C6C43400488DD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3352269524C6C43400488DD2 /* LaunchScreen.storyboard */; };
+		3352269F24C6DB5800488DD2 /* he.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3352269E24C6DB5800488DD2 /* he.mp3 */; };
+		335226A324C6E67900488DD2 /* whyayu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A224C6E67900488DD2 /* whyayu.mp3 */; };
+		335226A524C6F5E200488DD2 /* yes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A424C6F5E200488DD2 /* yes.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		3352269324C6C43400488DD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3352269624C6C43400488DD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3352269824C6C43400488DD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3352269E24C6DB5800488DD2 /* he.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = he.mp3; path = "../../../../Documents/VideoSolo Studio/Video/he.mp3"; sourceTree = "<group>"; };
+		335226A224C6E67900488DD2 /* whyayu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = whyayu.mp3; path = "../../../../Documents/VideoSolo Studio/Video/whyayu.mp3"; sourceTree = "<group>"; };
+		335226A424C6F5E200488DD2 /* yes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yes.mp3; path = "../../../../Documents/VideoSolo Studio/Video/yes.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 		3352268724C6C43100488DD2 /* ayuvo */ = {
 			isa = PBXGroup;
 			children = (
+				335226A424C6F5E200488DD2 /* yes.mp3 */,
+				335226A224C6E67900488DD2 /* whyayu.mp3 */,
+				3352269E24C6DB5800488DD2 /* he.mp3 */,
 				3352268824C6C43100488DD2 /* AppDelegate.swift */,
 				3352268A24C6C43100488DD2 /* SceneDelegate.swift */,
 				3352268C24C6C43100488DD2 /* FirstViewController.swift */,
@@ -128,8 +137,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				335226A524C6F5E200488DD2 /* yes.mp3 in Resources */,
 				3352269724C6C43400488DD2 /* LaunchScreen.storyboard in Resources */,
+				3352269F24C6DB5800488DD2 /* he.mp3 in Resources */,
 				3352269424C6C43400488DD2 /* Assets.xcassets in Resources */,
+				335226A324C6E67900488DD2 /* whyayu.mp3 in Resources */,
 				3352269224C6C43100488DD2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
