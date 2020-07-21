@@ -52,6 +52,7 @@ class FirstViewController: UIViewController {
          audioPlayerInstance.play()                  // 再生する
     }
     
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
