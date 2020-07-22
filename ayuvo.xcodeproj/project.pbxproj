@@ -17,6 +17,8 @@
 		3352269F24C6DB5800488DD2 /* he.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3352269E24C6DB5800488DD2 /* he.mp3 */; };
 		335226A324C6E67900488DD2 /* whyayu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A224C6E67900488DD2 /* whyayu.mp3 */; };
 		335226A524C6F5E200488DD2 /* yes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A424C6F5E200488DD2 /* yes.mp3 */; };
+		335226A724C7700600488DD2 /* kaede.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A624C7700600488DD2 /* kaede.mp3 */; };
+		335226A924C80FAC00488DD2 /* yowa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A824C80FAC00488DD2 /* yowa.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		3352269E24C6DB5800488DD2 /* he.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = he.mp3; path = "../../../../Documents/VideoSolo Studio/Video/he.mp3"; sourceTree = "<group>"; };
 		335226A224C6E67900488DD2 /* whyayu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = whyayu.mp3; path = "../../../../Documents/VideoSolo Studio/Video/whyayu.mp3"; sourceTree = "<group>"; };
 		335226A424C6F5E200488DD2 /* yes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yes.mp3; path = "../../../../Documents/VideoSolo Studio/Video/yes.mp3"; sourceTree = "<group>"; };
+		335226A624C7700600488DD2 /* kaede.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = kaede.mp3; path = "../../../../Documents/VideoSolo Studio/Video/kaede.mp3"; sourceTree = "<group>"; };
+		335226A824C80FAC00488DD2 /* yowa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yowa.mp3; path = "../../../../Documents/VideoSolo Studio/Video/yowa.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 		3352268724C6C43100488DD2 /* ayuvo */ = {
 			isa = PBXGroup;
 			children = (
+				335226A824C80FAC00488DD2 /* yowa.mp3 */,
+				335226A624C7700600488DD2 /* kaede.mp3 */,
 				335226A424C6F5E200488DD2 /* yes.mp3 */,
 				335226A224C6E67900488DD2 /* whyayu.mp3 */,
 				3352269E24C6DB5800488DD2 /* he.mp3 */,
@@ -143,6 +149,8 @@
 				3352269424C6C43400488DD2 /* Assets.xcassets in Resources */,
 				335226A324C6E67900488DD2 /* whyayu.mp3 in Resources */,
 				3352269224C6C43100488DD2 /* Main.storyboard in Resources */,
+				335226A924C80FAC00488DD2 /* yowa.mp3 in Resources */,
+				335226A724C7700600488DD2 /* kaede.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
