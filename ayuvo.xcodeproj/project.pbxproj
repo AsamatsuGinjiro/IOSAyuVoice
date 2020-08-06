@@ -21,6 +21,7 @@
 		335226A924C80FAC00488DD2 /* yowa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A824C80FAC00488DD2 /* yowa.mp3 */; };
 		335226AD24C8574C00488DD2 /* boke.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226AC24C8574C00488DD2 /* boke.mp3 */; };
 		335226AF24C85C7100488DD2 /* moo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226AE24C85C7100488DD2 /* moo.mp3 */; };
+		33AD6FE624D3FF750020D3DA /* PositiveSimpleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AD6FE524D3FF750020D3DA /* PositiveSimpleButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		335226A824C80FAC00488DD2 /* yowa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yowa.mp3; path = "../../../../Documents/VideoSolo Studio/Video/yowa.mp3"; sourceTree = "<group>"; };
 		335226AC24C8574C00488DD2 /* boke.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = boke.mp3; path = "../../../../Documents/VideoSolo Studio/Video/boke.mp3"; sourceTree = "<group>"; };
 		335226AE24C85C7100488DD2 /* moo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = moo.mp3; path = "../../../../Documents/VideoSolo Studio/Video/moo.mp3"; sourceTree = "<group>"; };
+		33AD6FE524D3FF750020D3DA /* PositiveSimpleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositiveSimpleButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				3352269324C6C43400488DD2 /* Assets.xcassets */,
 				3352269524C6C43400488DD2 /* LaunchScreen.storyboard */,
 				3352269824C6C43400488DD2 /* Info.plist */,
+				33AD6FE524D3FF750020D3DA /* PositiveSimpleButton.swift */,
 			);
 			path = ayuvo;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33AD6FE624D3FF750020D3DA /* PositiveSimpleButton.swift in Sources */,
 				3352268F24C6C43100488DD2 /* SecondViewController.swift in Sources */,
 				3352268D24C6C43100488DD2 /* FirstViewController.swift in Sources */,
 				3352268924C6C43100488DD2 /* AppDelegate.swift in Sources */,

@@ -1,34 +1,45 @@
-//
-//  FirstViewController.swift
-//  ayuvo
-//
-//  Created by Ginjiro Asamatsu on 2020/07/21.
-//  Copyright © 2020 Ginjiro Asamatsu. All rights reserved.
-//
+
 
 import UIKit
 import AVFoundation
 
+@IBDesignable
+class CustomButton: UIButton {
+  override init(frame: CGRect) {
+    super.init(frame: frame)
+    customDesign()
+  }
+  required init?(coder aDecoder: NSCoder) {
+    super.init(coder: aDecoder)
+    customDesign()
+  }
+  
+  override func prepareForInterfaceBuilder() {
+    super.prepareForInterfaceBuilder()
+    customDesign()
+  }
+  
+  private func customDesign() {
+    backgroundColor = UIColor.black
+    // 枠線の幅
+    layer.borderWidth = 0.5
+    // 枠線の色
+    layer.borderColor = UIColor.white.cgColor
+    // 角丸のサイズ
+    layer.cornerRadius = 5.0
+    // タイトルの色
+    setTitleColor(UIColor.white, for: UIControl.State.normal)
+  }
+}
+
 class FirstViewController: UIViewController {
 
-    @IBOutlet weak var DesignButton1: UIButton!
-    @IBOutlet weak var DesignButton: UIButton!
+    
     var audioPlayerInstance : AVAudioPlayer! = nil  // 再生するサウンドのインスタンス
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        // ボタンの装飾
-        DesignButton.backgroundColor = UIColor(red: 0/255, green: 0/255, blue: 0/255, alpha: 1.0)// 背景色
-        DesignButton.layer.borderWidth = 0.5                                              // 枠線の幅
-        DesignButton.layer.borderColor = UIColor.white.cgColor                            // 枠線の色
-        DesignButton.layer.cornerRadius = 5.0                                             // 角丸のサイズ
-        DesignButton.setTitleColor(UIColor.white, for: UIControl.State.normal)             // タイトルの色
-        // ボタンの装飾
-        DesignButton1.backgroundColor = UIColor(red: 0/255, green: 0/255, blue: 0/255, alpha: 1.0)// 背景色
-        DesignButton1.layer.borderWidth = 0.5                                              // 枠線の幅
-        DesignButton1.layer.borderColor = UIColor.white.cgColor                            // 枠線の色
-        DesignButton1.layer.cornerRadius = 5.0                                             // 角丸のサイズ
-        DesignButton1.setTitleColor(UIColor.white, for: UIControl.State.normal)             // タイトルの色
+        
     }
 
     @IBAction func dorya(_ sender: Any) {

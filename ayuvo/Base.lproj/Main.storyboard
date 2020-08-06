@@ -16,13 +16,13 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="━━━Pokemon━━━" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5qK-nS-d7b">
-                                <rect key="frame" x="83" y="89" width="249" height="29"/>
+                                <rect key="frame" x="20" y="89" width="273" height="29"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="24"/>
                                 <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="899-3s-UYD">
-                                <rect key="frame" x="20" y="668" width="71" height="70"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="899-3s-UYD" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="20" y="627" width="71" height="70"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="87W-CW-xKi"/>
@@ -33,8 +33,8 @@
                                     <action selector="dorya:" destination="9pv-A4-QxB" eventType="touchUpInside" id="wUo-76-AY7"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b7t-dQ-eJh">
-                                <rect key="frame" x="121" y="668" width="71" height="70"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b7t-dQ-eJh" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="121" y="627" width="71" height="70"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="fbp-aK-ygF"/>
@@ -45,8 +45,8 @@
                                     <action selector="YesButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="X6o-CL-BHU"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k7n-Zf-XVY">
-                                <rect key="frame" x="222" y="668" width="71" height="70"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k7n-Zf-XVY" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="222" y="627" width="71" height="70"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="7LN-Wi-f9L"/>
@@ -57,8 +57,8 @@
                                     <action selector="KaedeButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="gKQ-a9-Nyl"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bKt-rs-vBt">
-                                <rect key="frame" x="323" y="668" width="71" height="70"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bKt-rs-vBt" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="323" y="627" width="71" height="70"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="C68-eL-aRN"/>
@@ -69,167 +69,159 @@
                                     <action selector="YowaButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="eD0-FS-wfi"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zDv-Ip-v6q">
-                                <rect key="frame" x="20" y="567" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zDv-Ip-v6q" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="20" y="526" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="IOo-Z4-OjK"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MjG-mg-Jcy">
-                                <rect key="frame" x="222" y="567" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="MjG-mg-Jcy" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="222" y="526" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="bf3-k6-TnI"/>
                                 </constraints>
-                                <state key="normal" title="長えよぼけ"/>
+                                <state key="normal" title="長えよ、ボケ"/>
                                 <connections>
                                     <action selector="BokeButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="BGn-O9-6n6"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9As-7v-9Jy">
-                                <rect key="frame" x="323" y="567" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9As-7v-9Jy" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="323" y="526" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="cGT-iB-JmI"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3bI-oT-uKn">
-                                <rect key="frame" x="121" y="567" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3bI-oT-uKn" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="121" y="526" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="taM-QU-hb3"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sOZ-Zc-pgr">
-                                <rect key="frame" x="20" y="466" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sOZ-Zc-pgr" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="20" y="425" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="WnV-ap-mfd"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gdu-tz-cUk">
-                                <rect key="frame" x="121" y="466" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gdu-tz-cUk" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="121" y="425" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="9gm-l7-3lW"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iaA-1Y-xXe">
-                                <rect key="frame" x="222" y="466" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iaA-1Y-xXe" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="222" y="425" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="tba-1v-c7y"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="H55-cc-ZuY">
-                                <rect key="frame" x="323" y="466" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="H55-cc-ZuY" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="323" y="425" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="Wbu-gm-KKt"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hzC-c5-blq">
-                                <rect key="frame" x="20" y="365" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hzC-c5-blq" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="20" y="324" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="vqL-H9-cvq"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8CS-pj-BdE">
-                                <rect key="frame" x="121" y="365" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8CS-pj-BdE" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="121" y="324" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="0zs-fe-MXn"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CKS-da-lo6">
-                                <rect key="frame" x="222" y="365" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CKS-da-lo6" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="222" y="324" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="Y1B-yh-WTv"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yGJ-0k-DgB">
-                                <rect key="frame" x="323" y="365" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yGJ-0k-DgB" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="323" y="324" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="dr1-X7-9mP"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Clf-ik-dIn">
-                                <rect key="frame" x="20" y="264" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Clf-ik-dIn" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="20" y="223" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="cQY-WH-3xY"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aUC-j2-Eli">
-                                <rect key="frame" x="121" y="264" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aUC-j2-Eli" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="121" y="223" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="zZR-q7-vbn"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rr4-vy-cOt">
-                                <rect key="frame" x="222" y="264" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rr4-vy-cOt" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="222" y="223" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="baM-9v-RHs"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uXR-bk-oRq">
-                                <rect key="frame" x="323" y="264" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uXR-bk-oRq" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="323" y="223" width="71" height="71"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="71" id="0xS-Rb-Dbe"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pJq-Ko-iZa">
-                                <rect key="frame" x="20" y="163" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pJq-Ko-iZa" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="-1" y="0.0" width="46" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="71" id="We1-xW-Noz"/>
-                                </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2yP-M1-9Wn">
-                                <rect key="frame" x="121" y="163" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2yP-M1-9Wn" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="-1" y="0.0" width="47" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="71" id="fAq-JO-Ryj"/>
-                                </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jEn-9M-loH">
-                                <rect key="frame" x="222" y="163" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jEn-9M-loH" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="-1" y="0.0" width="46" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="71" id="eJb-Ip-1Hf"/>
-                                </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3zv-PE-1yr">
-                                <rect key="frame" x="323" y="163" width="71" height="71"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3zv-PE-1yr" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                                <rect key="frame" x="-1" y="0.0" width="47" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="71" id="NlC-9V-Msu"/>
-                                </constraints>
                                 <state key="normal" title="Button"/>
                             </button>
                         </subviews>
@@ -237,14 +229,11 @@
                         <constraints>
                             <constraint firstItem="iaA-1Y-xXe" firstAttribute="leading" secondItem="Gdu-tz-cUk" secondAttribute="trailing" constant="30" id="065-rN-1eN"/>
                             <constraint firstItem="MjG-mg-Jcy" firstAttribute="leading" secondItem="3bI-oT-uKn" secondAttribute="trailing" constant="30" id="0iK-Hy-XzU"/>
-                            <constraint firstItem="2yP-M1-9Wn" firstAttribute="width" secondItem="pJq-Ko-iZa" secondAttribute="width" id="2XV-eH-9Bh"/>
                             <constraint firstItem="k7n-Zf-XVY" firstAttribute="leading" secondItem="b7t-dQ-eJh" secondAttribute="trailing" constant="30" id="2hR-sf-SDk"/>
                             <constraint firstItem="rr4-vy-cOt" firstAttribute="width" secondItem="Clf-ik-dIn" secondAttribute="width" id="31I-yq-bnA"/>
                             <constraint firstItem="iaA-1Y-xXe" firstAttribute="centerY" secondItem="sOZ-Zc-pgr" secondAttribute="centerY" id="3Ct-aD-A5i"/>
                             <constraint firstItem="yGJ-0k-DgB" firstAttribute="centerY" secondItem="hzC-c5-blq" secondAttribute="centerY" id="3yX-SE-ZmY"/>
                             <constraint firstItem="CKS-da-lo6" firstAttribute="leading" secondItem="8CS-pj-BdE" secondAttribute="trailing" constant="30" id="5Rz-BG-qvX"/>
-                            <constraint firstItem="pJq-Ko-iZa" firstAttribute="top" secondItem="5qK-nS-d7b" secondAttribute="bottom" constant="45" id="7Cg-4l-cFH"/>
-                            <constraint firstItem="jEn-9M-loH" firstAttribute="centerY" secondItem="pJq-Ko-iZa" secondAttribute="centerY" id="7r7-RO-1da"/>
                             <constraint firstItem="k7n-Zf-XVY" firstAttribute="centerY" secondItem="899-3s-UYD" secondAttribute="centerY" id="7rf-TZ-gt7"/>
                             <constraint firstItem="bKt-rs-vBt" firstAttribute="centerY" secondItem="899-3s-UYD" secondAttribute="centerY" id="84y-27-mJp"/>
                             <constraint firstItem="k7n-Zf-XVY" firstAttribute="width" secondItem="899-3s-UYD" secondAttribute="width" id="8YB-GU-mgg"/>
@@ -254,15 +243,12 @@
                             <constraint firstItem="bKt-rs-vBt" firstAttribute="leading" secondItem="k7n-Zf-XVY" secondAttribute="trailing" constant="30" id="BYD-Yd-sXv"/>
                             <constraint firstItem="PQr-Ze-W5v" firstAttribute="trailing" secondItem="uXR-bk-oRq" secondAttribute="trailing" constant="20" id="BpL-eu-W6B"/>
                             <constraint firstItem="sOZ-Zc-pgr" firstAttribute="top" secondItem="hzC-c5-blq" secondAttribute="bottom" constant="30" id="Cuy-ZH-mnt"/>
-                            <constraint firstItem="2yP-M1-9Wn" firstAttribute="leading" secondItem="pJq-Ko-iZa" secondAttribute="trailing" constant="30" id="DM0-Nd-6da"/>
                             <constraint firstItem="rr4-vy-cOt" firstAttribute="leading" secondItem="aUC-j2-Eli" secondAttribute="trailing" constant="30" id="DcC-ka-A4v"/>
                             <constraint firstItem="zDv-Ip-v6q" firstAttribute="leading" secondItem="PQr-Ze-W5v" secondAttribute="leading" constant="20" id="I1L-Nq-fn2"/>
                             <constraint firstItem="PQr-Ze-W5v" firstAttribute="trailing" secondItem="yGJ-0k-DgB" secondAttribute="trailing" constant="20" id="IvP-LK-cuT"/>
-                            <constraint firstItem="3zv-PE-1yr" firstAttribute="leading" secondItem="jEn-9M-loH" secondAttribute="trailing" constant="30" id="KN1-1v-ecu"/>
                             <constraint firstItem="8CS-pj-BdE" firstAttribute="leading" secondItem="hzC-c5-blq" secondAttribute="trailing" constant="30" id="KZS-dP-1Lb"/>
                             <constraint firstItem="b7t-dQ-eJh" firstAttribute="leading" secondItem="899-3s-UYD" secondAttribute="trailing" constant="30" id="LNQ-gW-Lh4"/>
                             <constraint firstItem="b7t-dQ-eJh" firstAttribute="centerY" secondItem="899-3s-UYD" secondAttribute="centerY" id="M00-A8-ofe"/>
-                            <constraint firstItem="PQr-Ze-W5v" firstAttribute="trailing" secondItem="3zv-PE-1yr" secondAttribute="trailing" constant="20" id="MoJ-aV-vk6"/>
                             <constraint firstItem="aUC-j2-Eli" firstAttribute="leading" secondItem="Clf-ik-dIn" secondAttribute="trailing" constant="30" id="MsX-DE-Ibx"/>
                             <constraint firstItem="5qK-nS-d7b" firstAttribute="top" secondItem="PQr-Ze-W5v" secondAttribute="top" constant="45" id="NDP-HV-Ofe"/>
                             <constraint firstItem="b7t-dQ-eJh" firstAttribute="width" secondItem="899-3s-UYD" secondAttribute="width" id="NcL-Cr-DT6"/>
@@ -270,35 +256,28 @@
                             <constraint firstItem="Gdu-tz-cUk" firstAttribute="centerY" secondItem="sOZ-Zc-pgr" secondAttribute="centerY" id="Oz5-dK-Gly"/>
                             <constraint firstItem="hzC-c5-blq" firstAttribute="leading" secondItem="PQr-Ze-W5v" secondAttribute="leading" constant="20" id="QUZ-pH-nHL"/>
                             <constraint firstItem="Gdu-tz-cUk" firstAttribute="width" secondItem="sOZ-Zc-pgr" secondAttribute="width" id="Ssj-e7-nJf"/>
-                            <constraint firstItem="3zv-PE-1yr" firstAttribute="width" secondItem="pJq-Ko-iZa" secondAttribute="width" id="T1T-6s-OLU"/>
                             <constraint firstItem="9As-7v-9Jy" firstAttribute="centerY" secondItem="zDv-Ip-v6q" secondAttribute="centerY" id="UkT-Au-Ck6"/>
                             <constraint firstItem="3bI-oT-uKn" firstAttribute="width" secondItem="zDv-Ip-v6q" secondAttribute="width" id="UtO-3u-Bdh"/>
                             <constraint firstItem="zDv-Ip-v6q" firstAttribute="top" secondItem="sOZ-Zc-pgr" secondAttribute="bottom" constant="30" id="Uxe-ez-uK8"/>
                             <constraint firstItem="CKS-da-lo6" firstAttribute="centerY" secondItem="hzC-c5-blq" secondAttribute="centerY" id="W9q-aX-uAM"/>
-                            <constraint firstItem="pJq-Ko-iZa" firstAttribute="leading" secondItem="PQr-Ze-W5v" secondAttribute="leading" constant="20" id="WLe-dh-4uY"/>
                             <constraint firstItem="aUC-j2-Eli" firstAttribute="centerY" secondItem="Clf-ik-dIn" secondAttribute="centerY" id="WhT-hm-WEa"/>
                             <constraint firstItem="PQr-Ze-W5v" firstAttribute="trailing" secondItem="9As-7v-9Jy" secondAttribute="trailing" constant="20" id="YOf-iF-IxY"/>
                             <constraint firstItem="899-3s-UYD" firstAttribute="leading" secondItem="PQr-Ze-W5v" secondAttribute="leading" constant="20" id="YZS-32-RIP"/>
                             <constraint firstItem="8CS-pj-BdE" firstAttribute="width" secondItem="hzC-c5-blq" secondAttribute="width" id="YhA-YU-Zc3"/>
                             <constraint firstItem="3bI-oT-uKn" firstAttribute="centerY" secondItem="zDv-Ip-v6q" secondAttribute="centerY" id="aH5-nr-Sjd"/>
                             <constraint firstItem="aUC-j2-Eli" firstAttribute="width" secondItem="Clf-ik-dIn" secondAttribute="width" id="ap5-UO-yaO"/>
-                            <constraint firstItem="Clf-ik-dIn" firstAttribute="top" secondItem="pJq-Ko-iZa" secondAttribute="bottom" constant="30" id="c2h-pa-Ttr"/>
                             <constraint firstItem="uXR-bk-oRq" firstAttribute="leading" secondItem="rr4-vy-cOt" secondAttribute="trailing" constant="30" id="cQX-79-SvD"/>
                             <constraint firstItem="899-3s-UYD" firstAttribute="top" secondItem="zDv-Ip-v6q" secondAttribute="bottom" constant="30" id="dH3-Yx-PEI"/>
-                            <constraint firstItem="2yP-M1-9Wn" firstAttribute="centerY" secondItem="pJq-Ko-iZa" secondAttribute="centerY" id="eh6-Ba-vb9"/>
                             <constraint firstItem="Clf-ik-dIn" firstAttribute="leading" secondItem="PQr-Ze-W5v" secondAttribute="leading" constant="20" id="eyE-8e-qQG"/>
-                            <constraint firstItem="jEn-9M-loH" firstAttribute="leading" secondItem="2yP-M1-9Wn" secondAttribute="trailing" constant="30" id="gQg-60-SJd"/>
                             <constraint firstItem="3bI-oT-uKn" firstAttribute="leading" secondItem="zDv-Ip-v6q" secondAttribute="trailing" constant="30" id="h25-7b-16I"/>
                             <constraint firstItem="Gdu-tz-cUk" firstAttribute="leading" secondItem="sOZ-Zc-pgr" secondAttribute="trailing" constant="30" id="h6w-kH-F3C"/>
                             <constraint firstItem="MjG-mg-Jcy" firstAttribute="centerY" secondItem="zDv-Ip-v6q" secondAttribute="centerY" id="hHm-ut-GWv"/>
                             <constraint firstItem="yGJ-0k-DgB" firstAttribute="leading" secondItem="CKS-da-lo6" secondAttribute="trailing" constant="30" id="iWl-fy-nwg"/>
-                            <constraint firstItem="jEn-9M-loH" firstAttribute="width" secondItem="pJq-Ko-iZa" secondAttribute="width" id="iqR-aZ-1z8"/>
                             <constraint firstItem="PQr-Ze-W5v" firstAttribute="trailing" secondItem="H55-cc-ZuY" secondAttribute="trailing" constant="20" id="jKE-2v-W3R"/>
                             <constraint firstItem="sOZ-Zc-pgr" firstAttribute="leading" secondItem="PQr-Ze-W5v" secondAttribute="leading" constant="20" id="jdF-m6-Alj"/>
                             <constraint firstItem="uXR-bk-oRq" firstAttribute="centerY" secondItem="Clf-ik-dIn" secondAttribute="centerY" id="jff-rF-XU5"/>
                             <constraint firstItem="CKS-da-lo6" firstAttribute="width" secondItem="hzC-c5-blq" secondAttribute="width" id="koz-Va-B2F"/>
                             <constraint firstItem="bKt-rs-vBt" firstAttribute="width" secondItem="899-3s-UYD" secondAttribute="width" id="liX-rT-h0t"/>
-                            <constraint firstItem="3zv-PE-1yr" firstAttribute="centerY" secondItem="pJq-Ko-iZa" secondAttribute="centerY" id="mNp-Tv-lNE"/>
                             <constraint firstItem="9As-7v-9Jy" firstAttribute="width" secondItem="zDv-Ip-v6q" secondAttribute="width" id="nlS-pn-Ygx"/>
                             <constraint firstItem="H55-cc-ZuY" firstAttribute="width" secondItem="sOZ-Zc-pgr" secondAttribute="width" id="oHL-hA-7Po"/>
                             <constraint firstItem="iaA-1Y-xXe" firstAttribute="width" secondItem="sOZ-Zc-pgr" secondAttribute="width" id="ogs-JU-YNm"/>
@@ -312,10 +291,6 @@
                         <viewLayoutGuide key="safeArea" id="PQr-Ze-W5v"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="ポケモン" image="first" id="acW-dT-cKf"/>
-                    <connections>
-                        <outlet property="DesignButton" destination="b7t-dQ-eJh" id="7zV-3N-IS7"/>
-                        <outlet property="DesignButton1" destination="k7n-Zf-XVY" id="Tpo-Rc-QnC"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
             </objects>
