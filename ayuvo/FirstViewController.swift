@@ -42,6 +42,7 @@ class FirstViewController: UIViewController {
         
     }
 
+
     @IBAction func dorya(_ sender: Any) {
         let soundFilePath = Bundle.main.path(forResource: "he", ofType: "mp3")!
         let sound:URL = URL(fileURLWithPath: soundFilePath)

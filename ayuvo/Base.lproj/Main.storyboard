@@ -26,13 +26,14 @@
                                     <constraint firstAttribute="width" relation="lessThanOrEqual" constant="60" id="ln5-UE-psE"/>
                                     <constraint firstAttribute="height" constant="60" id="oNb-dE-gvC"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="どりゃあああ"/>
                                 <connections>
                                     <action selector="dorya:" destination="9pv-A4-QxB" eventType="touchUpInside" id="wUo-76-AY7"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b7t-dQ-eJh" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="b7t-dQ-eJh" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="303.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
@@ -41,6 +42,7 @@
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="60" id="w9t-cC-yd8"/>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="60" id="wsD-41-k0I"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="Yes♪"/>
                                 <connections>
@@ -56,14 +58,14 @@
                                     <constraint firstAttribute="height" constant="60" id="osZ-VH-0rl"/>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="60" id="pwx-rH-xGN"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="楓なら俺の横で寝てるよ？"/>
+                                <state key="normal" title="楓タバコ"/>
                                 <connections>
                                     <action selector="KaedeButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="gKQ-a9-Nyl"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bKt-rs-vBt" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bKt-rs-vBt" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="303.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
@@ -72,6 +74,7 @@
                                     <constraint firstAttribute="height" constant="60" id="mDL-T2-uOd"/>
                                     <constraint firstAttribute="width" constant="60" id="pnv-hM-zH8"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="よわ…"/>
                                 <connections>
@@ -87,310 +90,341 @@
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="60" id="c91-az-m7H"/>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="60" id="ifx-5Q-t7x"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <state key="normal" title="長えよ、ボケ"/>
                                 <connections>
                                     <action selector="BokeButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="BGn-O9-6n6"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uqH-ll-j9v" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="uqH-ll-j9v" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="228.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Hju-4M-z56"/>
                                     <constraint firstAttribute="height" constant="60" id="Pfl-1V-yDn"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ワイルドバトル参加者紹介"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fHm-Cl-gjW" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="fHm-Cl-gjW" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="153.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="gut-V1-Lgw"/>
                                     <constraint firstAttribute="height" constant="60" id="jpJ-B1-mwB"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ライバロリ1"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bJK-5a-xJo" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bJK-5a-xJo" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="78.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Un7-ct-QhG"/>
                                     <constraint firstAttribute="height" constant="60" id="gON-J1-G6e"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="キズナアユ"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zda-xd-dZe" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zda-xd-dZe" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="378.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="bDm-pg-ouP"/>
                                     <constraint firstAttribute="height" constant="60" id="dLE-d3-nbo"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="あゆみんは敗北者じゃけえ"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="V7r-Ab-t18" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="V7r-Ab-t18" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="453.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="MMD-41-ZoW"/>
                                     <constraint firstAttribute="height" constant="60" id="e3D-SQ-23o"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="弱保シンボラー"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Np-8X-2eH" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="1Np-8X-2eH" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="528.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="4sJ-h3-0xi"/>
                                     <constraint firstAttribute="height" constant="60" id="BcC-7w-qCt"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ギャラドスのギャラどうすんの？w"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tkZ-hf-y4F" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="tkZ-hf-y4F" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="153.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="dox-KW-3xk"/>
                                     <constraint firstAttribute="height" constant="60" id="lhh-nV-D4s"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="第二外国語で当てられたサントス"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ffd-jC-FCP" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Ffd-jC-FCP" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="228.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="Y4p-jT-fTZ"/>
                                     <constraint firstAttribute="width" constant="60" id="vdj-bR-4TF"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ペリカンが絶対言わないこと"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VfA-5H-MSZ" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="VfA-5H-MSZ" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="78.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="8c4-c4-2vZ"/>
                                     <constraint firstAttribute="height" constant="60" id="V6k-ry-Sfs"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="あゆみんと申す者です"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d9s-eP-p6H" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="d9s-eP-p6H" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="78.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="0Zn-Uh-0DQ"/>
                                     <constraint firstAttribute="width" constant="60" id="G5u-Eq-jiS"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="皆さん、こんにちは"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jud-KH-SE8" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Jud-KH-SE8" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="153.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="Hdf-x9-WBc"/>
                                     <constraint firstAttribute="width" constant="60" id="kiQ-pd-WFr"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="グラの真似"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Vp-2b-BHW" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="3Vp-2b-BHW" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="228.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="XOb-BD-aav"/>
                                     <constraint firstAttribute="height" constant="60" id="fGb-Ca-i6W"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ライバロリ4"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kaj-3j-xf0" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Kaj-3j-xf0" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="378.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Mwd-8L-krd"/>
                                     <constraint firstAttribute="height" constant="60" id="kUl-kb-91y"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="もしバニ"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bTT-mE-yU4" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bTT-mE-yU4" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="453.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="4U4-6c-Ljn"/>
                                     <constraint firstAttribute="width" constant="60" id="wrF-ya-pxb"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ゲオですか？"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Tc6-hv-DU1" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Tc6-hv-DU1" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="528.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="IMN-9M-m9p"/>
                                     <constraint firstAttribute="height" constant="60" id="pZS-XF-YM5"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="わかる？"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oab-4m-hrt" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="oab-4m-hrt" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="378.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="i65-Oo-aeY"/>
                                     <constraint firstAttribute="height" constant="60" id="oYY-kq-ZYn"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="やめるんだ！"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JvD-R4-ULy" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="JvD-R4-ULy" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="453.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="1vi-QB-zer"/>
                                     <constraint firstAttribute="width" constant="60" id="eYd-Z6-ucC"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="内緒話Zバシャ"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bc1-5c-Z4O" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bc1-5c-Z4O" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="528.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Dk1-fd-jLa"/>
                                     <constraint firstAttribute="height" constant="60" id="YJZ-pw-kir"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="お前だよ！"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="B0s-Er-rPf" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="B0s-Er-rPf" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="528.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="7hw-ce-zU4"/>
                                     <constraint firstAttribute="width" constant="60" id="Wxb-c0-OFS"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="大蛇丸(本物)"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8xj-Ua-mrj" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="8xj-Ua-mrj" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="453.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="JdN-tl-OnB"/>
                                     <constraint firstAttribute="height" constant="60" id="b7Y-be-0Ka"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="お母さんおんねんて横に…"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="esv-Yr-ASB" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="esv-Yr-ASB" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="378.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="KgG-Hq-YI7"/>
                                     <constraint firstAttribute="height" constant="60" id="v6x-FM-16y"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="最終日は動物園じゃないんだよ"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CwI-Wz-paH" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="CwI-Wz-paH" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="378.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="CO9-Rw-mxn"/>
                                     <constraint firstAttribute="width" constant="60" id="UEK-3x-s4O"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="最終日は殺し合いなんだよ"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ACl-eX-7YA" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ACl-eX-7YA" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="453.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="2Vw-Hx-ZFD"/>
                                     <constraint firstAttribute="width" constant="60" id="jGR-cJ-fkR"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="やりますねえ！"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zOQ-CC-pjW" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zOQ-CC-pjW" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="528.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="iz5-Gh-unV"/>
                                     <constraint firstAttribute="height" constant="60" id="vEZ-2l-UeU"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="会社の歓迎会"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="49X-aZ-3sA" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="49X-aZ-3sA" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="228.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="NPK-al-nRY"/>
                                     <constraint firstAttribute="width" constant="60" id="mKd-wf-jBH"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="チューする距離"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dks-c4-tr7" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="dks-c4-tr7" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="78.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="Fuk-cr-lq2"/>
                                     <constraint firstAttribute="width" constant="60" id="e5s-2i-fKF"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="蒼木あゆ子"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Oco-kU-XJg" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Oco-kU-XJg" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="153.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="H31-TC-ldK"/>
                                     <constraint firstAttribute="width" constant="60" id="TJg-sg-HaK"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ライバロリ3"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gj6-oO-Vim" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="gj6-oO-Vim" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="78.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="7ZR-Ss-hiq"/>
                                     <constraint firstAttribute="height" constant="60" id="eF5-3h-zjI"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="蒼木あゆ子2"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ys3-Cx-7gN" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ys3-Cx-7gN" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="228.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="TY6-gN-zYb"/>
                                     <constraint firstAttribute="width" constant="60" id="rht-LB-OFO"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="楓ストロングゼロ"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zme-OY-RKb" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Zme-OY-RKb" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="153.5" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="QrU-Hp-3ML"/>
                                     <constraint firstAttribute="height" constant="60" id="kCo-6r-16u"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ライバロリ2"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
