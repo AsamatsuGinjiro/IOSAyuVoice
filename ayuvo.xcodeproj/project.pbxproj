@@ -14,40 +14,40 @@
 		3352269224C6C43100488DD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3352269024C6C43100488DD2 /* Main.storyboard */; };
 		3352269424C6C43400488DD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3352269324C6C43400488DD2 /* Assets.xcassets */; };
 		3352269724C6C43400488DD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3352269524C6C43400488DD2 /* LaunchScreen.storyboard */; };
-		3352269F24C6DB5800488DD2 /* he.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3352269E24C6DB5800488DD2 /* he.mp3 */; };
+		3352269F24C6DB5800488DD2 /* dorya.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3352269E24C6DB5800488DD2 /* dorya.mp3 */; };
 		335226A324C6E67900488DD2 /* whyayu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A224C6E67900488DD2 /* whyayu.mp3 */; };
 		335226A524C6F5E200488DD2 /* yes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A424C6F5E200488DD2 /* yes.mp3 */; };
 		335226A724C7700600488DD2 /* kaede.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A624C7700600488DD2 /* kaede.mp3 */; };
 		335226AD24C8574C00488DD2 /* boke.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226AC24C8574C00488DD2 /* boke.mp3 */; };
 		33AD6FE624D3FF750020D3DA /* PositiveSimpleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AD6FE524D3FF750020D3DA /* PositiveSimpleButton.swift */; };
-		33C3E0D224E6FE5E00E6CA41 /* あゆみんは敗北者じゃけえ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B424E6FE5600E6CA41 /* あゆみんは敗北者じゃけえ.mp3 */; };
+		33C3E0D224E6FE5E00E6CA41 /* Loser.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B424E6FE5600E6CA41 /* Loser.mp3 */; };
 		33C3E0D324E6FE5E00E6CA41 /* あゆみんと申す者です.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B524E6FE5600E6CA41 /* あゆみんと申す者です.mp3 */; };
-		33C3E0D424E6FE5E00E6CA41 /* ゲオにソフトを売る.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B624E6FE5600E6CA41 /* ゲオにソフトを売る.mp3 */; };
-		33C3E0D524E6FE5E00E6CA41 /* 大蛇丸(本物).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B724E6FE5600E6CA41 /* 大蛇丸(本物).mp3 */; };
-		33C3E0D624E6FE5E00E6CA41 /* 内緒話Zバシャ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B824E6FE5700E6CA41 /* 内緒話Zバシャ.mp3 */; };
-		33C3E0D724E6FE5E00E6CA41 /* ちゅうする距離.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B924E6FE5700E6CA41 /* ちゅうする距離.mp3 */; };
-		33C3E0D824E6FE5E00E6CA41 /* 第2外国語の授業を当てられたサントス.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BA24E6FE5700E6CA41 /* 第2外国語の授業を当てられたサントス.mp3 */; };
-		33C3E0D924E6FE5E00E6CA41 /* たまにいるんだよポケモンのことお楽しみ遊園地だと勘違いしてるやつお前だよ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BB24E6FE5700E6CA41 /* たまにいるんだよポケモンのことお楽しみ遊園地だと勘違いしてるやつお前だよ.mp3 */; };
-		33C3E0DA24E6FE5E00E6CA41 /* ライバロリの真似4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BC24E6FE5800E6CA41 /* ライバロリの真似4.mp3 */; };
-		33C3E0DB24E6FE5E00E6CA41 /* お母さんおんねんて横に.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BD24E6FE5800E6CA41 /* お母さんおんねんて横に.mp3 */; };
+		33C3E0D424E6FE5E00E6CA41 /* Geo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B624E6FE5600E6CA41 /* Geo.mp3 */; };
+		33C3E0D524E6FE5E00E6CA41 /* Oroti.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B724E6FE5600E6CA41 /* Oroti.mp3 */; };
+		33C3E0D624E6FE5E00E6CA41 /* ZBasha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B824E6FE5700E6CA41 /* ZBasha.mp3 */; };
+		33C3E0D724E6FE5E00E6CA41 /* Kiss.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0B924E6FE5700E6CA41 /* Kiss.mp3 */; };
+		33C3E0D824E6FE5E00E6CA41 /* サントス.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BA24E6FE5700E6CA41 /* サントス.mp3 */; };
+		33C3E0D924E6FE5E00E6CA41 /* You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BB24E6FE5700E6CA41 /* You.mp3 */; };
+		33C3E0DA24E6FE5E00E6CA41 /* Baro4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BC24E6FE5800E6CA41 /* Baro4.mp3 */; };
+		33C3E0DB24E6FE5E00E6CA41 /* Mom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BD24E6FE5800E6CA41 /* Mom.mp3 */; };
 		33C3E0DC24E6FE5E00E6CA41 /* 蒼木あゆ子.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BE24E6FE5800E6CA41 /* 蒼木あゆ子.mp3 */; };
-		33C3E0DD24E6FE5E00E6CA41 /* ギャラドスのギャラ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BF24E6FE5800E6CA41 /* ギャラドスのギャラ.mp3 */; };
-		33C3E0DE24E6FE5E00E6CA41 /* やりますねえ！.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C024E6FE5800E6CA41 /* やりますねえ！.mp3 */; };
-		33C3E0DF24E6FE5E00E6CA41 /* やめるんだ！.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C124E6FE5900E6CA41 /* やめるんだ！.mp3 */; };
-		33C3E0E024E6FE5E00E6CA41 /* 最終日は動物園じゃないんだよ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C224E6FE5900E6CA41 /* 最終日は動物園じゃないんだよ.mp3 */; };
-		33C3E0E124E6FE5E00E6CA41 /* ワイルドバトルの参加者紹介.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C324E6FE5900E6CA41 /* ワイルドバトルの参加者紹介.mp3 */; };
-		33C3E0E224E6FE5E00E6CA41 /* あのさあ、ポケモンは遊園地じゃないんだよね.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C424E6FE5900E6CA41 /* あのさあ、ポケモンは遊園地じゃないんだよね.mp3 */; };
-		33C3E0E324E6FE5E00E6CA41 /* 楓すとろんぐぜろ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C524E6FE5A00E6CA41 /* 楓すとろんぐぜろ.mp3 */; };
-		33C3E0E424E6FE5E00E6CA41 /* 弱保シンボラー.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C624E6FE5A00E6CA41 /* 弱保シンボラー.mp3 */; };
+		33C3E0DD24E6FE5E00E6CA41 /* Gala.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0BF24E6FE5800E6CA41 /* Gala.mp3 */; };
+		33C3E0DE24E6FE5E00E6CA41 /* Yarimasune.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C024E6FE5800E6CA41 /* Yarimasune.mp3 */; };
+		33C3E0DF24E6FE5E00E6CA41 /* Stop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C124E6FE5900E6CA41 /* Stop.mp3 */; };
+		33C3E0E024E6FE5E00E6CA41 /* NotZoo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C224E6FE5900E6CA41 /* NotZoo.mp3 */; };
+		33C3E0E124E6FE5E00E6CA41 /* ワイルドバトル.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C324E6FE5900E6CA41 /* ワイルドバトル.mp3 */; };
+		33C3E0E224E6FE5E00E6CA41 /* Amu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C424E6FE5900E6CA41 /* Amu.mp3 */; };
+		33C3E0E324E6FE5E00E6CA41 /* Kaede2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C524E6FE5A00E6CA41 /* Kaede2.mp3 */; };
+		33C3E0E424E6FE5E00E6CA41 /* Sinbora.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C624E6FE5A00E6CA41 /* Sinbora.mp3 */; };
 		33C3E0E524E6FE5E00E6CA41 /* キズナアユ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C724E6FE5A00E6CA41 /* キズナアユ.mp3 */; };
-		33C3E0E624E6FE5E00E6CA41 /* ペリカンが絶対言わないこと.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C824E6FE5A00E6CA41 /* ペリカンが絶対言わないこと.mp3 */; };
-		33C3E0E724E6FE5E00E6CA41 /* ライバロリの真似1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C924E6FE5B00E6CA41 /* ライバロリの真似1.mp3 */; };
-		33C3E0E824E6FE5E00E6CA41 /* ライバロリの真似3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CA24E6FE5B00E6CA41 /* ライバロリの真似3.mp3 */; };
-		33C3E0E924E6FE5E00E6CA41 /* もしバニ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CB24E6FE5C00E6CA41 /* もしバニ.mp3 */; };
-		33C3E0EA24E6FE5E00E6CA41 /* ライバロリの真似2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CC24E6FE5C00E6CA41 /* ライバロリの真似2.mp3 */; };
-		33C3E0EB24E6FE5E00E6CA41 /* 歓迎会.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CD24E6FE5C00E6CA41 /* 歓迎会.mp3 */; };
-		33C3E0EC24E6FE5E00E6CA41 /* 最終日は殺し合いなんだよ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CE24E6FE5D00E6CA41 /* 最終日は殺し合いなんだよ.mp3 */; };
-		33C3E0ED24E6FE5E00E6CA41 /* 皆さんこんにちは.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CF24E6FE5D00E6CA41 /* 皆さんこんにちは.mp3 */; };
+		33C3E0E624E6FE5E00E6CA41 /* ペリカン.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C824E6FE5A00E6CA41 /* ペリカン.mp3 */; };
+		33C3E0E724E6FE5E00E6CA41 /* Baro1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0C924E6FE5B00E6CA41 /* Baro1.mp3 */; };
+		33C3E0E824E6FE5E00E6CA41 /* Baro3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CA24E6FE5B00E6CA41 /* Baro3.mp3 */; };
+		33C3E0E924E6FE5E00E6CA41 /* IfBani.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CB24E6FE5C00E6CA41 /* IfBani.mp3 */; };
+		33C3E0EA24E6FE5E00E6CA41 /* Baro2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CC24E6FE5C00E6CA41 /* Baro2.mp3 */; };
+		33C3E0EB24E6FE5E00E6CA41 /* Party.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CD24E6FE5C00E6CA41 /* Party.mp3 */; };
+		33C3E0EC24E6FE5E00E6CA41 /* Kill.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CE24E6FE5D00E6CA41 /* Kill.mp3 */; };
+		33C3E0ED24E6FE5E00E6CA41 /* hello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0CF24E6FE5D00E6CA41 /* hello.mp3 */; };
 		33C3E0EE24E6FE5E00E6CA41 /* 蒼木あゆ子2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0D024E6FE5D00E6CA41 /* 蒼木あゆ子2.mp3 */; };
 		33C3E0EF24E6FE5E00E6CA41 /* グラの真似.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0D124E6FE5E00E6CA41 /* グラの真似.mp3 */; };
 		33C3E0FC24E7036400E6CA41 /* yowa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33C3E0FB24E7036300E6CA41 /* yowa.mp3 */; };
@@ -63,40 +63,40 @@
 		3352269324C6C43400488DD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3352269624C6C43400488DD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3352269824C6C43400488DD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3352269E24C6DB5800488DD2 /* he.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = he.mp3; path = "../../../../Documents/VideoSolo Studio/Video/he.mp3"; sourceTree = "<group>"; };
+		3352269E24C6DB5800488DD2 /* dorya.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = dorya.mp3; path = "../../../../Documents/VideoSolo Studio/Video/dorya.mp3"; sourceTree = "<group>"; };
 		335226A224C6E67900488DD2 /* whyayu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = whyayu.mp3; path = "../../../../Documents/VideoSolo Studio/Video/whyayu.mp3"; sourceTree = "<group>"; };
 		335226A424C6F5E200488DD2 /* yes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yes.mp3; path = "../../../../Documents/VideoSolo Studio/Video/yes.mp3"; sourceTree = "<group>"; };
 		335226A624C7700600488DD2 /* kaede.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = kaede.mp3; path = "../../../../Documents/VideoSolo Studio/Video/kaede.mp3"; sourceTree = "<group>"; };
 		335226AC24C8574C00488DD2 /* boke.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = boke.mp3; path = "../../../../Documents/VideoSolo Studio/Video/boke.mp3"; sourceTree = "<group>"; };
 		33AD6FE524D3FF750020D3DA /* PositiveSimpleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositiveSimpleButton.swift; sourceTree = "<group>"; };
-		33C3E0B424E6FE5600E6CA41 /* あゆみんは敗北者じゃけえ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "あゆみんは敗北者じゃけえ.mp3"; path = "../../../../Downloads/あゆみんは敗北者じゃけえ.mp3"; sourceTree = "<group>"; };
+		33C3E0B424E6FE5600E6CA41 /* Loser.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Loser.mp3; path = ../../../../Downloads/Loser.mp3; sourceTree = "<group>"; };
 		33C3E0B524E6FE5600E6CA41 /* あゆみんと申す者です.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "あゆみんと申す者です.mp3"; path = "../../../../Downloads/あゆみんと申す者です.mp3"; sourceTree = "<group>"; };
-		33C3E0B624E6FE5600E6CA41 /* ゲオにソフトを売る.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ゲオにソフトを売る.mp3"; path = "../../../../Downloads/ゲオにソフトを売る.mp3"; sourceTree = "<group>"; };
-		33C3E0B724E6FE5600E6CA41 /* 大蛇丸(本物).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "大蛇丸(本物).mp3"; path = "../../../../Downloads/大蛇丸(本物).mp3"; sourceTree = "<group>"; };
-		33C3E0B824E6FE5700E6CA41 /* 内緒話Zバシャ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "内緒話Zバシャ.mp3"; path = "../../../../Downloads/内緒話Zバシャ.mp3"; sourceTree = "<group>"; };
-		33C3E0B924E6FE5700E6CA41 /* ちゅうする距離.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ちゅうする距離.mp3"; path = "../../../../Downloads/ちゅうする距離.mp3"; sourceTree = "<group>"; };
-		33C3E0BA24E6FE5700E6CA41 /* 第2外国語の授業を当てられたサントス.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "第2外国語の授業を当てられたサントス.mp3"; path = "../../../../Downloads/第2外国語の授業を当てられたサントス.mp3"; sourceTree = "<group>"; };
-		33C3E0BB24E6FE5700E6CA41 /* たまにいるんだよポケモンのことお楽しみ遊園地だと勘違いしてるやつお前だよ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "たまにいるんだよポケモンのことお楽しみ遊園地だと勘違いしてるやつお前だよ.mp3"; path = "../../../../Downloads/たまにいるんだよポケモンのことお楽しみ遊園地だと勘違いしてるやつお前だよ.mp3"; sourceTree = "<group>"; };
-		33C3E0BC24E6FE5800E6CA41 /* ライバロリの真似4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ライバロリの真似4.mp3"; path = "../../../../Downloads/ライバロリの真似4.mp3"; sourceTree = "<group>"; };
-		33C3E0BD24E6FE5800E6CA41 /* お母さんおんねんて横に.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "お母さんおんねんて横に.mp3"; path = "../../../../Downloads/お母さんおんねんて横に.mp3"; sourceTree = "<group>"; };
+		33C3E0B624E6FE5600E6CA41 /* Geo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Geo.mp3; path = ../../../../Downloads/Geo.mp3; sourceTree = "<group>"; };
+		33C3E0B724E6FE5600E6CA41 /* Oroti.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Oroti.mp3; path = ../../../../Downloads/Oroti.mp3; sourceTree = "<group>"; };
+		33C3E0B824E6FE5700E6CA41 /* ZBasha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ZBasha.mp3; path = ../../../../Downloads/ZBasha.mp3; sourceTree = "<group>"; };
+		33C3E0B924E6FE5700E6CA41 /* Kiss.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Kiss.mp3; path = ../../../../Downloads/Kiss.mp3; sourceTree = "<group>"; };
+		33C3E0BA24E6FE5700E6CA41 /* サントス.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "サントス.mp3"; path = "../../../../Downloads/サントス.mp3"; sourceTree = "<group>"; };
+		33C3E0BB24E6FE5700E6CA41 /* You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = You.mp3; path = ../../../../Downloads/You.mp3; sourceTree = "<group>"; };
+		33C3E0BC24E6FE5800E6CA41 /* Baro4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Baro4.mp3; path = ../../../../Downloads/Baro4.mp3; sourceTree = "<group>"; };
+		33C3E0BD24E6FE5800E6CA41 /* Mom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Mom.mp3; path = ../../../../Downloads/Mom.mp3; sourceTree = "<group>"; };
 		33C3E0BE24E6FE5800E6CA41 /* 蒼木あゆ子.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "蒼木あゆ子.mp3"; path = "../../../../Downloads/蒼木あゆ子.mp3"; sourceTree = "<group>"; };
-		33C3E0BF24E6FE5800E6CA41 /* ギャラドスのギャラ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ギャラドスのギャラ.mp3"; path = "../../../../Downloads/ギャラドスのギャラ.mp3"; sourceTree = "<group>"; };
-		33C3E0C024E6FE5800E6CA41 /* やりますねえ！.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "やりますねえ！.mp3"; path = "../../../../Downloads/やりますねえ！.mp3"; sourceTree = "<group>"; };
-		33C3E0C124E6FE5900E6CA41 /* やめるんだ！.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "やめるんだ！.mp3"; path = "../../../../Downloads/やめるんだ！.mp3"; sourceTree = "<group>"; };
-		33C3E0C224E6FE5900E6CA41 /* 最終日は動物園じゃないんだよ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "最終日は動物園じゃないんだよ.mp3"; path = "../../../../Downloads/最終日は動物園じゃないんだよ.mp3"; sourceTree = "<group>"; };
-		33C3E0C324E6FE5900E6CA41 /* ワイルドバトルの参加者紹介.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ワイルドバトルの参加者紹介.mp3"; path = "../../../../Downloads/ワイルドバトルの参加者紹介.mp3"; sourceTree = "<group>"; };
-		33C3E0C424E6FE5900E6CA41 /* あのさあ、ポケモンは遊園地じゃないんだよね.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "あのさあ、ポケモンは遊園地じゃないんだよね.mp3"; path = "../../../../Downloads/あのさあ、ポケモンは遊園地じゃないんだよね.mp3"; sourceTree = "<group>"; };
-		33C3E0C524E6FE5A00E6CA41 /* 楓すとろんぐぜろ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "楓すとろんぐぜろ.mp3"; path = "../../../../Downloads/楓すとろんぐぜろ.mp3"; sourceTree = "<group>"; };
-		33C3E0C624E6FE5A00E6CA41 /* 弱保シンボラー.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "弱保シンボラー.mp3"; path = "../../../../Downloads/弱保シンボラー.mp3"; sourceTree = "<group>"; };
+		33C3E0BF24E6FE5800E6CA41 /* Gala.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gala.mp3; path = ../../../../Downloads/Gala.mp3; sourceTree = "<group>"; };
+		33C3E0C024E6FE5800E6CA41 /* Yarimasune.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Yarimasune.mp3; path = ../../../../Downloads/Yarimasune.mp3; sourceTree = "<group>"; };
+		33C3E0C124E6FE5900E6CA41 /* Stop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Stop.mp3; path = ../../../../Downloads/Stop.mp3; sourceTree = "<group>"; };
+		33C3E0C224E6FE5900E6CA41 /* NotZoo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = NotZoo.mp3; path = ../../../../Downloads/NotZoo.mp3; sourceTree = "<group>"; };
+		33C3E0C324E6FE5900E6CA41 /* ワイルドバトル.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ワイルドバトル.mp3"; path = "../../../../Downloads/ワイルドバトル.mp3"; sourceTree = "<group>"; };
+		33C3E0C424E6FE5900E6CA41 /* Amu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Amu.mp3; path = ../../../../Downloads/Amu.mp3; sourceTree = "<group>"; };
+		33C3E0C524E6FE5A00E6CA41 /* Kaede2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Kaede2.mp3; path = ../../../../Downloads/Kaede2.mp3; sourceTree = "<group>"; };
+		33C3E0C624E6FE5A00E6CA41 /* Sinbora.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Sinbora.mp3; path = ../../../../Downloads/Sinbora.mp3; sourceTree = "<group>"; };
 		33C3E0C724E6FE5A00E6CA41 /* キズナアユ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "キズナアユ.mp3"; path = "../../../../Downloads/キズナアユ.mp3"; sourceTree = "<group>"; };
-		33C3E0C824E6FE5A00E6CA41 /* ペリカンが絶対言わないこと.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ペリカンが絶対言わないこと.mp3"; path = "../../../../Downloads/ペリカンが絶対言わないこと.mp3"; sourceTree = "<group>"; };
-		33C3E0C924E6FE5B00E6CA41 /* ライバロリの真似1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ライバロリの真似1.mp3"; path = "../../../../Downloads/ライバロリの真似1.mp3"; sourceTree = "<group>"; };
-		33C3E0CA24E6FE5B00E6CA41 /* ライバロリの真似3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ライバロリの真似3.mp3"; path = "../../../../Downloads/ライバロリの真似3.mp3"; sourceTree = "<group>"; };
-		33C3E0CB24E6FE5C00E6CA41 /* もしバニ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "もしバニ.mp3"; path = "../../../../Downloads/もしバニ.mp3"; sourceTree = "<group>"; };
-		33C3E0CC24E6FE5C00E6CA41 /* ライバロリの真似2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ライバロリの真似2.mp3"; path = "../../../../Downloads/ライバロリの真似2.mp3"; sourceTree = "<group>"; };
-		33C3E0CD24E6FE5C00E6CA41 /* 歓迎会.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "歓迎会.mp3"; path = "../../../../Downloads/歓迎会.mp3"; sourceTree = "<group>"; };
-		33C3E0CE24E6FE5D00E6CA41 /* 最終日は殺し合いなんだよ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "最終日は殺し合いなんだよ.mp3"; path = "../../../../Downloads/最終日は殺し合いなんだよ.mp3"; sourceTree = "<group>"; };
-		33C3E0CF24E6FE5D00E6CA41 /* 皆さんこんにちは.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "皆さんこんにちは.mp3"; path = "../../../../Downloads/皆さんこんにちは.mp3"; sourceTree = "<group>"; };
+		33C3E0C824E6FE5A00E6CA41 /* ペリカン.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ペリカン.mp3"; path = "../../../../Downloads/ペリカン.mp3"; sourceTree = "<group>"; };
+		33C3E0C924E6FE5B00E6CA41 /* Baro1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Baro1.mp3; path = ../../../../Downloads/Baro1.mp3; sourceTree = "<group>"; };
+		33C3E0CA24E6FE5B00E6CA41 /* Baro3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Baro3.mp3; path = ../../../../Downloads/Baro3.mp3; sourceTree = "<group>"; };
+		33C3E0CB24E6FE5C00E6CA41 /* IfBani.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = IfBani.mp3; path = ../../../../Downloads/IfBani.mp3; sourceTree = "<group>"; };
+		33C3E0CC24E6FE5C00E6CA41 /* Baro2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Baro2.mp3; path = ../../../../Downloads/Baro2.mp3; sourceTree = "<group>"; };
+		33C3E0CD24E6FE5C00E6CA41 /* Party.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Party.mp3; path = ../../../../Downloads/Party.mp3; sourceTree = "<group>"; };
+		33C3E0CE24E6FE5D00E6CA41 /* Kill.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Kill.mp3; path = ../../../../Downloads/Kill.mp3; sourceTree = "<group>"; };
+		33C3E0CF24E6FE5D00E6CA41 /* hello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = hello.mp3; path = ../../../../Downloads/hello.mp3; sourceTree = "<group>"; };
 		33C3E0D024E6FE5D00E6CA41 /* 蒼木あゆ子2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "蒼木あゆ子2.mp3"; path = "../../../../Downloads/蒼木あゆ子2.mp3"; sourceTree = "<group>"; };
 		33C3E0D124E6FE5E00E6CA41 /* グラの真似.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "グラの真似.mp3"; path = "../../../../Downloads/グラの真似.mp3"; sourceTree = "<group>"; };
 		33C3E0FB24E7036300E6CA41 /* yowa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yowa.mp3; path = "../../../../Documents/VideoSolo Studio/Video/yowa.mp3"; sourceTree = "<group>"; };
@@ -137,37 +137,37 @@
 				33C3E0FB24E7036300E6CA41 /* yowa.mp3 */,
 				335226A624C7700600488DD2 /* kaede.mp3 */,
 				335226A424C6F5E200488DD2 /* yes.mp3 */,
-				3352269E24C6DB5800488DD2 /* he.mp3 */,
-				33C3E0CF24E6FE5D00E6CA41 /* 皆さんこんにちは.mp3 */,
+				3352269E24C6DB5800488DD2 /* dorya.mp3 */,
+				33C3E0CF24E6FE5D00E6CA41 /* hello.mp3 */,
 				33C3E0B524E6FE5600E6CA41 /* あゆみんと申す者です.mp3 */,
 				33C3E0C724E6FE5A00E6CA41 /* キズナアユ.mp3 */,
 				33C3E0BE24E6FE5800E6CA41 /* 蒼木あゆ子.mp3 */,
 				33C3E0D024E6FE5D00E6CA41 /* 蒼木あゆ子2.mp3 */,
 				33C3E0D124E6FE5E00E6CA41 /* グラの真似.mp3 */,
-				33C3E0C924E6FE5B00E6CA41 /* ライバロリの真似1.mp3 */,
-				33C3E0CC24E6FE5C00E6CA41 /* ライバロリの真似2.mp3 */,
-				33C3E0CA24E6FE5B00E6CA41 /* ライバロリの真似3.mp3 */,
-				33C3E0BC24E6FE5800E6CA41 /* ライバロリの真似4.mp3 */,
-				33C3E0BA24E6FE5700E6CA41 /* 第2外国語の授業を当てられたサントス.mp3 */,
-				33C3E0C824E6FE5A00E6CA41 /* ペリカンが絶対言わないこと.mp3 */,
-				33C3E0C324E6FE5900E6CA41 /* ワイルドバトルの参加者紹介.mp3 */,
-				33C3E0B924E6FE5700E6CA41 /* ちゅうする距離.mp3 */,
-				33C3E0C524E6FE5A00E6CA41 /* 楓すとろんぐぜろ.mp3 */,
-				33C3E0CB24E6FE5C00E6CA41 /* もしバニ.mp3 */,
-				33C3E0C124E6FE5900E6CA41 /* やめるんだ！.mp3 */,
-				33C3E0B424E6FE5600E6CA41 /* あゆみんは敗北者じゃけえ.mp3 */,
-				33C3E0C224E6FE5900E6CA41 /* 最終日は動物園じゃないんだよ.mp3 */,
-				33C3E0CE24E6FE5D00E6CA41 /* 最終日は殺し合いなんだよ.mp3 */,
-				33C3E0B624E6FE5600E6CA41 /* ゲオにソフトを売る.mp3 */,
-				33C3E0B824E6FE5700E6CA41 /* 内緒話Zバシャ.mp3 */,
-				33C3E0C624E6FE5A00E6CA41 /* 弱保シンボラー.mp3 */,
-				33C3E0BD24E6FE5800E6CA41 /* お母さんおんねんて横に.mp3 */,
-				33C3E0C024E6FE5800E6CA41 /* やりますねえ！.mp3 */,
-				33C3E0C424E6FE5900E6CA41 /* あのさあ、ポケモンは遊園地じゃないんだよね.mp3 */,
-				33C3E0BB24E6FE5700E6CA41 /* たまにいるんだよポケモンのことお楽しみ遊園地だと勘違いしてるやつお前だよ.mp3 */,
-				33C3E0BF24E6FE5800E6CA41 /* ギャラドスのギャラ.mp3 */,
-				33C3E0CD24E6FE5C00E6CA41 /* 歓迎会.mp3 */,
-				33C3E0B724E6FE5600E6CA41 /* 大蛇丸(本物).mp3 */,
+				33C3E0C924E6FE5B00E6CA41 /* Baro1.mp3 */,
+				33C3E0CC24E6FE5C00E6CA41 /* Baro2.mp3 */,
+				33C3E0CA24E6FE5B00E6CA41 /* Baro3.mp3 */,
+				33C3E0BC24E6FE5800E6CA41 /* Baro4.mp3 */,
+				33C3E0BA24E6FE5700E6CA41 /* サントス.mp3 */,
+				33C3E0C824E6FE5A00E6CA41 /* ペリカン.mp3 */,
+				33C3E0C324E6FE5900E6CA41 /* ワイルドバトル.mp3 */,
+				33C3E0B924E6FE5700E6CA41 /* Kiss.mp3 */,
+				33C3E0C524E6FE5A00E6CA41 /* Kaede2.mp3 */,
+				33C3E0CB24E6FE5C00E6CA41 /* IfBani.mp3 */,
+				33C3E0C124E6FE5900E6CA41 /* Stop.mp3 */,
+				33C3E0B424E6FE5600E6CA41 /* Loser.mp3 */,
+				33C3E0C224E6FE5900E6CA41 /* NotZoo.mp3 */,
+				33C3E0CE24E6FE5D00E6CA41 /* Kill.mp3 */,
+				33C3E0B624E6FE5600E6CA41 /* Geo.mp3 */,
+				33C3E0B824E6FE5700E6CA41 /* ZBasha.mp3 */,
+				33C3E0C624E6FE5A00E6CA41 /* Sinbora.mp3 */,
+				33C3E0BD24E6FE5800E6CA41 /* Mom.mp3 */,
+				33C3E0C024E6FE5800E6CA41 /* Yarimasune.mp3 */,
+				33C3E0C424E6FE5900E6CA41 /* Amu.mp3 */,
+				33C3E0BB24E6FE5700E6CA41 /* You.mp3 */,
+				33C3E0BF24E6FE5800E6CA41 /* Gala.mp3 */,
+				33C3E0CD24E6FE5C00E6CA41 /* Party.mp3 */,
+				33C3E0B724E6FE5600E6CA41 /* Oroti.mp3 */,
 				335226A224C6E67900488DD2 /* whyayu.mp3 */,
 				3352268824C6C43100488DD2 /* AppDelegate.swift */,
 				3352268A24C6C43100488DD2 /* SceneDelegate.swift */,
@@ -248,42 +248,42 @@
 			buildActionMask = 2147483647;
 			files = (
 				33C3E0D324E6FE5E00E6CA41 /* あゆみんと申す者です.mp3 in Resources */,
-				33C3E0E424E6FE5E00E6CA41 /* 弱保シンボラー.mp3 in Resources */,
-				33C3E0E824E6FE5E00E6CA41 /* ライバロリの真似3.mp3 in Resources */,
-				33C3E0DF24E6FE5E00E6CA41 /* やめるんだ！.mp3 in Resources */,
+				33C3E0E424E6FE5E00E6CA41 /* Sinbora.mp3 in Resources */,
+				33C3E0E824E6FE5E00E6CA41 /* Baro3.mp3 in Resources */,
+				33C3E0DF24E6FE5E00E6CA41 /* Stop.mp3 in Resources */,
 				335226A524C6F5E200488DD2 /* yes.mp3 in Resources */,
-				33C3E0E924E6FE5E00E6CA41 /* もしバニ.mp3 in Resources */,
+				33C3E0E924E6FE5E00E6CA41 /* IfBani.mp3 in Resources */,
 				33C3E0FC24E7036400E6CA41 /* yowa.mp3 in Resources */,
-				33C3E0D524E6FE5E00E6CA41 /* 大蛇丸(本物).mp3 in Resources */,
-				33C3E0DE24E6FE5E00E6CA41 /* やりますねえ！.mp3 in Resources */,
-				33C3E0D724E6FE5E00E6CA41 /* ちゅうする距離.mp3 in Resources */,
-				33C3E0EB24E6FE5E00E6CA41 /* 歓迎会.mp3 in Resources */,
+				33C3E0D524E6FE5E00E6CA41 /* Oroti.mp3 in Resources */,
+				33C3E0DE24E6FE5E00E6CA41 /* Yarimasune.mp3 in Resources */,
+				33C3E0D724E6FE5E00E6CA41 /* Kiss.mp3 in Resources */,
+				33C3E0EB24E6FE5E00E6CA41 /* Party.mp3 in Resources */,
 				3352269724C6C43400488DD2 /* LaunchScreen.storyboard in Resources */,
-				33C3E0D424E6FE5E00E6CA41 /* ゲオにソフトを売る.mp3 in Resources */,
-				33C3E0D224E6FE5E00E6CA41 /* あゆみんは敗北者じゃけえ.mp3 in Resources */,
+				33C3E0D424E6FE5E00E6CA41 /* Geo.mp3 in Resources */,
+				33C3E0D224E6FE5E00E6CA41 /* Loser.mp3 in Resources */,
 				33C3E0EE24E6FE5E00E6CA41 /* 蒼木あゆ子2.mp3 in Resources */,
-				33C3E0D924E6FE5E00E6CA41 /* たまにいるんだよポケモンのことお楽しみ遊園地だと勘違いしてるやつお前だよ.mp3 in Resources */,
-				33C3E0DA24E6FE5E00E6CA41 /* ライバロリの真似4.mp3 in Resources */,
+				33C3E0D924E6FE5E00E6CA41 /* You.mp3 in Resources */,
+				33C3E0DA24E6FE5E00E6CA41 /* Baro4.mp3 in Resources */,
 				335226AD24C8574C00488DD2 /* boke.mp3 in Resources */,
-				3352269F24C6DB5800488DD2 /* he.mp3 in Resources */,
+				3352269F24C6DB5800488DD2 /* dorya.mp3 in Resources */,
 				3352269424C6C43400488DD2 /* Assets.xcassets in Resources */,
 				335226A324C6E67900488DD2 /* whyayu.mp3 in Resources */,
-				33C3E0E724E6FE5E00E6CA41 /* ライバロリの真似1.mp3 in Resources */,
-				33C3E0E224E6FE5E00E6CA41 /* あのさあ、ポケモンは遊園地じゃないんだよね.mp3 in Resources */,
-				33C3E0DD24E6FE5E00E6CA41 /* ギャラドスのギャラ.mp3 in Resources */,
-				33C3E0EA24E6FE5E00E6CA41 /* ライバロリの真似2.mp3 in Resources */,
+				33C3E0E724E6FE5E00E6CA41 /* Baro1.mp3 in Resources */,
+				33C3E0E224E6FE5E00E6CA41 /* Amu.mp3 in Resources */,
+				33C3E0DD24E6FE5E00E6CA41 /* Gala.mp3 in Resources */,
+				33C3E0EA24E6FE5E00E6CA41 /* Baro2.mp3 in Resources */,
 				33C3E0E524E6FE5E00E6CA41 /* キズナアユ.mp3 in Resources */,
-				33C3E0E324E6FE5E00E6CA41 /* 楓すとろんぐぜろ.mp3 in Resources */,
+				33C3E0E324E6FE5E00E6CA41 /* Kaede2.mp3 in Resources */,
 				3352269224C6C43100488DD2 /* Main.storyboard in Resources */,
-				33C3E0D624E6FE5E00E6CA41 /* 内緒話Zバシャ.mp3 in Resources */,
-				33C3E0DB24E6FE5E00E6CA41 /* お母さんおんねんて横に.mp3 in Resources */,
-				33C3E0ED24E6FE5E00E6CA41 /* 皆さんこんにちは.mp3 in Resources */,
-				33C3E0EC24E6FE5E00E6CA41 /* 最終日は殺し合いなんだよ.mp3 in Resources */,
+				33C3E0D624E6FE5E00E6CA41 /* ZBasha.mp3 in Resources */,
+				33C3E0DB24E6FE5E00E6CA41 /* Mom.mp3 in Resources */,
+				33C3E0ED24E6FE5E00E6CA41 /* hello.mp3 in Resources */,
+				33C3E0EC24E6FE5E00E6CA41 /* Kill.mp3 in Resources */,
 				33C3E0DC24E6FE5E00E6CA41 /* 蒼木あゆ子.mp3 in Resources */,
-				33C3E0E624E6FE5E00E6CA41 /* ペリカンが絶対言わないこと.mp3 in Resources */,
-				33C3E0E124E6FE5E00E6CA41 /* ワイルドバトルの参加者紹介.mp3 in Resources */,
-				33C3E0D824E6FE5E00E6CA41 /* 第2外国語の授業を当てられたサントス.mp3 in Resources */,
-				33C3E0E024E6FE5E00E6CA41 /* 最終日は動物園じゃないんだよ.mp3 in Resources */,
+				33C3E0E624E6FE5E00E6CA41 /* ペリカン.mp3 in Resources */,
+				33C3E0E124E6FE5E00E6CA41 /* ワイルドバトル.mp3 in Resources */,
+				33C3E0D824E6FE5E00E6CA41 /* サントス.mp3 in Resources */,
+				33C3E0E024E6FE5E00E6CA41 /* NotZoo.mp3 in Resources */,
 				33C3E0EF24E6FE5E00E6CA41 /* グラの真似.mp3 in Resources */,
 				335226A724C7700600488DD2 /* kaede.mp3 in Resources */,
 			);

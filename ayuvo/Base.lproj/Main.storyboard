@@ -28,7 +28,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="どりゃあああ"/>
+                                <state key="normal" title="最低のレート2100達成の瞬間(音量注意)"/>
                                 <connections>
                                     <action selector="dorya:" destination="9pv-A4-QxB" eventType="touchUpInside" id="wUo-76-AY7"/>
                                 </connections>
@@ -76,7 +76,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="よわ…"/>
+                                <state key="normal" title="当てろ！よし…よわ…"/>
                                 <connections>
                                     <action selector="YowaButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="eD0-FS-wfi"/>
                                 </connections>
@@ -106,6 +106,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ワイルドバトル参加者紹介"/>
+                                <connections>
+                                    <action selector="Wild:" destination="9pv-A4-QxB" eventType="touchUpInside" id="hRH-AX-TaT"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="fHm-Cl-gjW" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="153.5" width="60" height="60"/>
@@ -116,7 +119,10 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="ライバロリ1"/>
+                                <state key="normal" title="一回動画見た印象のライバロリ1"/>
+                                <connections>
+                                    <action selector="Baro1:" destination="9pv-A4-QxB" eventType="touchUpInside" id="CQy-lj-4zx"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bJK-5a-xJo" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="78.5" width="60" height="60"/>
@@ -128,6 +134,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="キズナアユ"/>
+                                <connections>
+                                    <action selector="AyuKizuna:" destination="9pv-A4-QxB" eventType="touchUpInside" id="Umj-Tm-ynm"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zda-xd-dZe" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="378.5" width="60" height="60"/>
@@ -139,6 +148,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="あゆみんは敗北者じゃけえ"/>
+                                <connections>
+                                    <action selector="Loser:" destination="9pv-A4-QxB" eventType="touchUpInside" id="wfz-Ar-N5f"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="V7r-Ab-t18" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="453.5" width="60" height="60"/>
@@ -150,6 +162,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="弱保シンボラー"/>
+                                <connections>
+                                    <action selector="Sinbora:" destination="9pv-A4-QxB" eventType="touchUpInside" id="0y3-YC-IvM"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="1Np-8X-2eH" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="528.5" width="60" height="60"/>
@@ -161,6 +176,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ギャラドスのギャラどうすんの？w"/>
+                                <connections>
+                                    <action selector="Gala:" destination="9pv-A4-QxB" eventType="touchUpInside" id="Kic-jC-Kx5"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="tkZ-hf-y4F" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="153.5" width="60" height="60"/>
@@ -172,6 +190,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="第二外国語で当てられたサントス"/>
+                                <connections>
+                                    <action selector="Santos:" destination="9pv-A4-QxB" eventType="touchUpInside" id="daq-sT-HE3"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Ffd-jC-FCP" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="228.5" width="60" height="60"/>
@@ -183,6 +204,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ペリカンが絶対言わないこと"/>
+                                <connections>
+                                    <action selector="Peri:" destination="9pv-A4-QxB" eventType="touchUpInside" id="mRh-77-WQF"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="VfA-5H-MSZ" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="78.5" width="60" height="60"/>
@@ -194,6 +218,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="あゆみんと申す者です"/>
+                                <connections>
+                                    <action selector="NameIsButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="uxi-kd-zwx"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="d9s-eP-p6H" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="78.5" width="60" height="60"/>
@@ -205,6 +232,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="皆さん、こんにちは"/>
+                                <connections>
+                                    <action selector="HelloButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="IXa-cX-deP"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Jud-KH-SE8" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="153.5" width="60" height="60"/>
@@ -216,6 +246,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="グラの真似"/>
+                                <connections>
+                                    <action selector="Gura:" destination="9pv-A4-QxB" eventType="touchUpInside" id="AED-6H-AL5"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="3Vp-2b-BHW" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="228.5" width="60" height="60"/>
@@ -227,6 +260,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ライバロリ4"/>
+                                <connections>
+                                    <action selector="Baro4:" destination="9pv-A4-QxB" eventType="touchUpInside" id="RQd-uP-F5Y"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Kaj-3j-xf0" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="378.5" width="60" height="60"/>
@@ -237,7 +273,10 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="もしバニ"/>
+                                <state key="normal" title="もしバニ!?"/>
+                                <connections>
+                                    <action selector="IfBani:" destination="9pv-A4-QxB" eventType="touchUpInside" id="iEX-R0-z7X"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bTT-mE-yU4" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="453.5" width="60" height="60"/>
@@ -249,6 +288,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ゲオですか？"/>
+                                <connections>
+                                    <action selector="Geo:" destination="9pv-A4-QxB" eventType="touchUpInside" id="9i3-oN-LR9"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Tc6-hv-DU1" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="528.5" width="60" height="60"/>
@@ -260,6 +302,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="わかる？"/>
+                                <connections>
+                                    <action selector="Amu:" destination="9pv-A4-QxB" eventType="touchUpInside" id="g8S-fg-8Sw"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="oab-4m-hrt" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="378.5" width="60" height="60"/>
@@ -270,7 +315,10 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="やめるんだ！"/>
+                                <state key="normal" title="茶番"/>
+                                <connections>
+                                    <action selector="Stop:" destination="9pv-A4-QxB" eventType="touchUpInside" id="tSS-LM-aub"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="JvD-R4-ULy" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="453.5" width="60" height="60"/>
@@ -282,6 +330,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="内緒話Zバシャ"/>
+                                <connections>
+                                    <action selector="ZBasha:" destination="9pv-A4-QxB" eventType="touchUpInside" id="mQp-F6-sag"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bc1-5c-Z4O" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="528.5" width="60" height="60"/>
@@ -293,6 +344,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="お前だよ！"/>
+                                <connections>
+                                    <action selector="You:" destination="9pv-A4-QxB" eventType="touchUpInside" id="PXj-WR-9sf"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="B0s-Er-rPf" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="528.5" width="60" height="60"/>
@@ -304,6 +358,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="大蛇丸(本物)"/>
+                                <connections>
+                                    <action selector="Oroti:" destination="9pv-A4-QxB" eventType="touchUpInside" id="WJH-j5-Y72"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="8xj-Ua-mrj" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="453.5" width="60" height="60"/>
@@ -315,6 +372,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="お母さんおんねんて横に…"/>
+                                <connections>
+                                    <action selector="Mom:" destination="9pv-A4-QxB" eventType="touchUpInside" id="Vfe-bu-7wA"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="esv-Yr-ASB" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="378.5" width="60" height="60"/>
@@ -326,6 +386,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="最終日は動物園じゃないんだよ"/>
+                                <connections>
+                                    <action selector="NotZoo:" destination="9pv-A4-QxB" eventType="touchUpInside" id="0KM-1H-ksx"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="CwI-Wz-paH" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="378.5" width="60" height="60"/>
@@ -337,6 +400,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="最終日は殺し合いなんだよ"/>
+                                <connections>
+                                    <action selector="Kill:" destination="9pv-A4-QxB" eventType="touchUpInside" id="HVl-Iv-kf8"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ACl-eX-7YA" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="453.5" width="60" height="60"/>
@@ -348,6 +414,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="やりますねえ！"/>
+                                <connections>
+                                    <action selector="Yarimasune:" destination="9pv-A4-QxB" eventType="touchUpInside" id="rwh-Fb-Mny"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zOQ-CC-pjW" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="528.5" width="60" height="60"/>
@@ -359,6 +428,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="会社の歓迎会"/>
+                                <connections>
+                                    <action selector="Party:" destination="9pv-A4-QxB" eventType="touchUpInside" id="fxJ-Cn-8A5"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="49X-aZ-3sA" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="228.5" width="60" height="60"/>
@@ -370,6 +442,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="チューする距離"/>
+                                <connections>
+                                    <action selector="Kiss:" destination="9pv-A4-QxB" eventType="touchUpInside" id="YJs-gW-7aO"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="dks-c4-tr7" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="78.5" width="60" height="60"/>
@@ -381,6 +456,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="蒼木あゆ子"/>
+                                <connections>
+                                    <action selector="AyukoAoki:" destination="9pv-A4-QxB" eventType="touchUpInside" id="YEc-BT-fo5"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Oco-kU-XJg" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="153.5" width="60" height="60"/>
@@ -392,6 +470,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ライバロリ3"/>
+                                <connections>
+                                    <action selector="Baro3:" destination="9pv-A4-QxB" eventType="touchUpInside" id="rfR-N0-evU"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="gj6-oO-Vim" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="78.5" width="60" height="60"/>
@@ -403,6 +484,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="蒼木あゆ子2"/>
+                                <connections>
+                                    <action selector="AyukoAoki2:" destination="9pv-A4-QxB" eventType="touchUpInside" id="X9y-sJ-5pz"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ys3-Cx-7gN" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="228.5" width="60" height="60"/>
@@ -414,6 +498,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="楓ストロングゼロ"/>
+                                <connections>
+                                    <action selector="Kaede2:" destination="9pv-A4-QxB" eventType="touchUpInside" id="8lL-Uw-H2H"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Zme-OY-RKb" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="153.5" width="60" height="60"/>
@@ -425,6 +512,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ライバロリ2"/>
+                                <connections>
+                                    <action selector="Baro2:" destination="9pv-A4-QxB" eventType="touchUpInside" id="5QN-Ad-tkB"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -552,6 +642,7 @@
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="60" id="UOy-on-MGa"/>
                                     <constraint firstAttribute="height" constant="60" id="fRw-cv-aQG"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="なんでえ"/>
                             </button>
@@ -562,6 +653,7 @@
                                     <constraint firstAttribute="width" constant="60" id="TTV-Qk-Ubi"/>
                                     <constraint firstAttribute="height" constant="60" id="gPv-RQ-KJo"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="気ぃ使わん？"/>
                             </button>
@@ -572,7 +664,7 @@
                                     <constraint firstAttribute="width" constant="60" id="huN-E7-5M0"/>
                                     <constraint firstAttribute="height" constant="60" id="iUR-E8-hdS"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -583,6 +675,7 @@
                                     <constraint firstAttribute="width" constant="60" id="BEJ-i6-QTM"/>
                                     <constraint firstAttribute="height" constant="60" id="mHT-Yi-Smf"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -593,6 +686,7 @@
                                     <constraint firstAttribute="height" constant="60" id="DEa-Ax-20u"/>
                                     <constraint firstAttribute="width" constant="60" id="QtJ-dV-Qjh"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <state key="normal" title="クソだせえじゃん"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="wGo-2N-CGq" customClass="CustomButton" customModule="ayuvo" customModuleProvider="target">
@@ -602,6 +696,7 @@
                                     <constraint firstAttribute="width" constant="60" id="2bq-ZU-23b"/>
                                     <constraint firstAttribute="height" constant="60" id="Zuf-F3-Kqj"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -612,6 +707,7 @@
                                     <constraint firstAttribute="width" constant="60" id="dxV-Fm-QGi"/>
                                     <constraint firstAttribute="height" constant="60" id="kmN-LL-CCC"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -622,6 +718,7 @@
                                     <constraint firstAttribute="width" constant="60" id="c1O-jn-bq8"/>
                                     <constraint firstAttribute="height" constant="60" id="rmg-jA-eM3"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -632,6 +729,7 @@
                                     <constraint firstAttribute="width" constant="60" id="1v4-0U-CfL"/>
                                     <constraint firstAttribute="height" constant="60" id="IFs-2Y-v6U"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -642,6 +740,7 @@
                                     <constraint firstAttribute="height" constant="60" id="4YU-f3-n9I"/>
                                     <constraint firstAttribute="width" constant="60" id="ABk-h1-A17"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -652,6 +751,7 @@
                                     <constraint firstAttribute="width" constant="60" id="5QG-Pm-UX7"/>
                                     <constraint firstAttribute="height" constant="60" id="vNj-48-hQX"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -662,6 +762,7 @@
                                     <constraint firstAttribute="width" constant="60" id="4vW-Et-Xza"/>
                                     <constraint firstAttribute="height" constant="60" id="dug-E6-flg"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -672,6 +773,7 @@
                                     <constraint firstAttribute="width" constant="60" id="rXU-ps-mhy"/>
                                     <constraint firstAttribute="height" constant="60" id="sgo-2I-FA5"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -682,6 +784,7 @@
                                     <constraint firstAttribute="width" constant="60" id="mDy-Dk-bfd"/>
                                     <constraint firstAttribute="height" constant="60" id="xeI-BD-yP3"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -692,6 +795,7 @@
                                     <constraint firstAttribute="width" constant="60" id="1Sp-Nh-GcT"/>
                                     <constraint firstAttribute="height" constant="60" id="iSy-zw-zsx"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -702,6 +806,7 @@
                                     <constraint firstAttribute="height" constant="60" id="66P-qS-1u8"/>
                                     <constraint firstAttribute="width" constant="60" id="WXf-73-Wad"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -712,6 +817,7 @@
                                     <constraint firstAttribute="height" constant="60" id="ng5-ym-6iW"/>
                                     <constraint firstAttribute="width" constant="60" id="vt2-EW-Cf0"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -722,6 +828,7 @@
                                     <constraint firstAttribute="height" constant="60" id="GZM-0S-LpY"/>
                                     <constraint firstAttribute="width" constant="60" id="Lnh-ta-M3R"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -732,6 +839,7 @@
                                     <constraint firstAttribute="height" constant="60" id="GTG-em-I0H"/>
                                     <constraint firstAttribute="width" constant="60" id="lLg-7j-2ks"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -742,6 +850,7 @@
                                     <constraint firstAttribute="width" constant="60" id="gAj-7m-66N"/>
                                     <constraint firstAttribute="height" constant="60" id="sFv-hR-zif"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -752,6 +861,7 @@
                                     <constraint firstAttribute="height" constant="60" id="fat-qT-FJ1"/>
                                     <constraint firstAttribute="width" constant="60" id="kcg-jp-8sJ"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -762,6 +872,7 @@
                                     <constraint firstAttribute="height" constant="60" id="ZWR-NM-HXr"/>
                                     <constraint firstAttribute="width" constant="60" id="Zhc-k2-lub"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -772,6 +883,7 @@
                                     <constraint firstAttribute="width" constant="60" id="Mca-cQ-Izs"/>
                                     <constraint firstAttribute="height" constant="60" id="yyz-eV-heW"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -782,6 +894,7 @@
                                     <constraint firstAttribute="width" constant="60" id="grI-XN-a6V"/>
                                     <constraint firstAttribute="height" constant="60" id="kVA-9O-Sli"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -792,6 +905,7 @@
                                     <constraint firstAttribute="width" constant="60" id="Bn9-oJ-SPb"/>
                                     <constraint firstAttribute="height" constant="60" id="xD1-dU-I4n"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -802,6 +916,7 @@
                                     <constraint firstAttribute="width" constant="60" id="WF2-b0-lgp"/>
                                     <constraint firstAttribute="height" constant="60" id="jbW-N0-f8S"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -812,6 +927,7 @@
                                     <constraint firstAttribute="height" constant="60" id="O3I-66-znL"/>
                                     <constraint firstAttribute="width" constant="60" id="SNS-Nt-QiP"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -822,6 +938,7 @@
                                     <constraint firstAttribute="width" constant="60" id="1LI-qh-2tc"/>
                                     <constraint firstAttribute="height" constant="60" id="fIZ-ux-W8s"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -832,6 +949,7 @@
                                     <constraint firstAttribute="width" constant="60" id="9FB-sc-dGF"/>
                                     <constraint firstAttribute="height" constant="60" id="RLE-IM-DYs"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -842,6 +960,7 @@
                                     <constraint firstAttribute="height" constant="60" id="MQY-VS-v4D"/>
                                     <constraint firstAttribute="width" constant="60" id="T6w-d3-XOr"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -852,6 +971,7 @@
                                     <constraint firstAttribute="width" constant="60" id="h3a-j0-cwQ"/>
                                     <constraint firstAttribute="height" constant="60" id="i48-V5-1VP"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -862,6 +982,7 @@
                                     <constraint firstAttribute="height" constant="60" id="eIi-0x-Qi8"/>
                                     <constraint firstAttribute="width" constant="60" id="ja7-2Z-DbE"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -872,6 +993,7 @@
                                     <constraint firstAttribute="width" constant="60" id="MRF-tw-LNw"/>
                                     <constraint firstAttribute="height" constant="60" id="Yqo-Ql-11q"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -882,6 +1004,7 @@
                                     <constraint firstAttribute="width" constant="60" id="0II-4l-eST"/>
                                     <constraint firstAttribute="height" constant="60" id="hk1-hZ-JIG"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
@@ -892,6 +1015,7 @@
                                     <constraint firstAttribute="height" constant="60" id="7UI-jZ-2dA"/>
                                     <constraint firstAttribute="width" constant="60" id="I5r-xE-M9O"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="button"/>
                             </button>
