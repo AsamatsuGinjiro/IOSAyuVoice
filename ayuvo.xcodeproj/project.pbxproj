@@ -54,7 +54,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3352268524C6C43100488DD2 /* ayuvo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ayuvo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3352268524C6C43100488DD2 /* あゆみんボイス.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "あゆみんボイス.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3352268824C6C43100488DD2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3352268A24C6C43100488DD2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		3352268C24C6C43100488DD2 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -124,7 +124,7 @@
 		3352268624C6C43100488DD2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3352268524C6C43100488DD2 /* ayuvo.app */,
+				3352268524C6C43100488DD2 /* あゆみんボイス.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -206,7 +206,7 @@
 			);
 			name = ayuvo;
 			productName = ayuvo;
-			productReference = 3352268524C6C43100488DD2 /* ayuvo.app */;
+			productReference = 3352268524C6C43100488DD2 /* あゆみんボイス.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -445,13 +445,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 655U6ATUR5;
 				INFOPLIST_FILE = ayuvo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.gichagecha.ayuvo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "あゆみんボイス";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -462,13 +463,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 655U6ATUR5;
 				INFOPLIST_FILE = ayuvo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.gichagecha.ayuvo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "あゆみんボイス";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
