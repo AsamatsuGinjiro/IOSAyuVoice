@@ -7,6 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		330A0D5824E9B34500215BD6 /* WeGod.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3524E9B34100215BD6 /* WeGod.mp3 */; };
+		330A0D5924E9B34500215BD6 /* Moko.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3624E9B34200215BD6 /* Moko.mp3 */; };
+		330A0D5A24E9B34500215BD6 /* Bikuzo3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3724E9B34200215BD6 /* Bikuzo3.mp3 */; };
+		330A0D5B24E9B34500215BD6 /* GizokuVoice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3824E9B34200215BD6 /* GizokuVoice.mp3 */; };
+		330A0D5C24E9B34500215BD6 /* Kechi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3924E9B34200215BD6 /* Kechi.mp3 */; };
+		330A0D5D24E9B34500215BD6 /* Chitsu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3A24E9B34200215BD6 /* Chitsu.mp3 */; };
+		330A0D5E24E9B34500215BD6 /* killerDis.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3B24E9B34200215BD6 /* killerDis.mp3 */; };
+		330A0D5F24E9B34500215BD6 /* School.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3C24E9B34200215BD6 /* School.mp3 */; };
+		330A0D6024E9B34500215BD6 /* LetAndGo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3D24E9B34200215BD6 /* LetAndGo.mp3 */; };
+		330A0D6124E9B34500215BD6 /* Bikuzo2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3E24E9B34200215BD6 /* Bikuzo2.mp3 */; };
+		330A0D6224E9B34500215BD6 /* Ba_d.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3F24E9B34200215BD6 /* Ba_d.mp3 */; };
+		330A0D6324E9B34500215BD6 /* Zuchi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4024E9B34200215BD6 /* Zuchi.mp3 */; };
+		330A0D6424E9B34500215BD6 /* Dase.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4124E9B34200215BD6 /* Dase.mp3 */; };
+		330A0D6524E9B34500215BD6 /* Mom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4224E9B34300215BD6 /* Mom.mp3 */; };
+		330A0D6624E9B34500215BD6 /* Gizoku1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4324E9B34300215BD6 /* Gizoku1.mp3 */; };
+		330A0D6724E9B34500215BD6 /* Raubarori2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4424E9B34300215BD6 /* Raubarori2.mp3 */; };
+		330A0D6824E9B34500215BD6 /* Perikan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4524E9B34300215BD6 /* Perikan.mp3 */; };
+		330A0D6924E9B34500215BD6 /* RaibaroriKill.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4624E9B34300215BD6 /* RaibaroriKill.mp3 */; };
+		330A0D6A24E9B34500215BD6 /* Where.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4724E9B34300215BD6 /* Where.mp3 */; };
+		330A0D6B24E9B34500215BD6 /* Gizoku2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4824E9B34300215BD6 /* Gizoku2.mp3 */; };
+		330A0D6C24E9B34500215BD6 /* Kei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4924E9B34300215BD6 /* Kei.mp3 */; };
+		330A0D6D24E9B34500215BD6 /* Torippy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4A24E9B34300215BD6 /* Torippy.mp3 */; };
+		330A0D6E24E9B34500215BD6 /* Boti.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4B24E9B34300215BD6 /* Boti.mp3 */; };
+		330A0D6F24E9B34500215BD6 /* NotHeart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4C24E9B34300215BD6 /* NotHeart.mp3 */; };
+		330A0D7024E9B34500215BD6 /* Kusomesu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4D24E9B34300215BD6 /* Kusomesu.mp3 */; };
+		330A0D7124E9B34500215BD6 /* NeverAgain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4E24E9B34400215BD6 /* NeverAgain.mp3 */; };
+		330A0D7224E9B34500215BD6 /* WhereYouBad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4F24E9B34400215BD6 /* WhereYouBad.mp3 */; };
+		330A0D7324E9B34500215BD6 /* CatPeech.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D5024E9B34400215BD6 /* CatPeech.mp3 */; };
+		330A0D7424E9B34500215BD6 /* UseKili.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D5124E9B34400215BD6 /* UseKili.mp3 */; };
+		330A0D7524E9B34500215BD6 /* Bikuzo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D5224E9B34400215BD6 /* Bikuzo.mp3 */; };
+		330A0D7624E9B34500215BD6 /* ThisGame.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D5324E9B34400215BD6 /* ThisGame.mp3 */; };
+		330A0D7724E9B34500215BD6 /* MomNotEro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D5424E9B34400215BD6 /* MomNotEro.mp3 */; };
+		330A0D7824E9B34500215BD6 /* BadBadBad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D5524E9B34400215BD6 /* BadBadBad.mp3 */; };
+		330A0D7924E9B34500215BD6 /* Raibarori1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D5624E9B34400215BD6 /* Raibarori1.mp3 */; };
+		330A0D7A24E9B34500215BD6 /* BadMe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D5724E9B34400215BD6 /* BadMe.mp3 */; };
 		3352268924C6C43100488DD2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352268824C6C43100488DD2 /* AppDelegate.swift */; };
 		3352268B24C6C43100488DD2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352268A24C6C43100488DD2 /* SceneDelegate.swift */; };
 		3352268D24C6C43100488DD2 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352268C24C6C43100488DD2 /* FirstViewController.swift */; };
@@ -15,7 +50,6 @@
 		3352269424C6C43400488DD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3352269324C6C43400488DD2 /* Assets.xcassets */; };
 		3352269724C6C43400488DD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3352269524C6C43400488DD2 /* LaunchScreen.storyboard */; };
 		3352269F24C6DB5800488DD2 /* dorya.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3352269E24C6DB5800488DD2 /* dorya.mp3 */; };
-		335226A324C6E67900488DD2 /* whyayu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A224C6E67900488DD2 /* whyayu.mp3 */; };
 		335226A524C6F5E200488DD2 /* yes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A424C6F5E200488DD2 /* yes.mp3 */; };
 		335226A724C7700600488DD2 /* kaede.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226A624C7700600488DD2 /* kaede.mp3 */; };
 		335226AD24C8574C00488DD2 /* boke.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335226AC24C8574C00488DD2 /* boke.mp3 */; };
@@ -54,6 +88,41 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		330A0D3524E9B34100215BD6 /* WeGod.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = WeGod.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/WeGod.mp3"; sourceTree = "<group>"; };
+		330A0D3624E9B34200215BD6 /* Moko.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Moko.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Moko.mp3"; sourceTree = "<group>"; };
+		330A0D3724E9B34200215BD6 /* Bikuzo3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Bikuzo3.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Bikuzo3.mp3"; sourceTree = "<group>"; };
+		330A0D3824E9B34200215BD6 /* GizokuVoice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = GizokuVoice.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/GizokuVoice.mp3"; sourceTree = "<group>"; };
+		330A0D3924E9B34200215BD6 /* Kechi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Kechi.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Kechi.mp3"; sourceTree = "<group>"; };
+		330A0D3A24E9B34200215BD6 /* Chitsu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Chitsu.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Chitsu.mp3"; sourceTree = "<group>"; };
+		330A0D3B24E9B34200215BD6 /* killerDis.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = killerDis.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/killerDis.mp3"; sourceTree = "<group>"; };
+		330A0D3C24E9B34200215BD6 /* School.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = School.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/School.mp3"; sourceTree = "<group>"; };
+		330A0D3D24E9B34200215BD6 /* LetAndGo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = LetAndGo.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/LetAndGo.mp3"; sourceTree = "<group>"; };
+		330A0D3E24E9B34200215BD6 /* Bikuzo2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Bikuzo2.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Bikuzo2.mp3"; sourceTree = "<group>"; };
+		330A0D3F24E9B34200215BD6 /* Ba_d.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Ba_d.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Ba_d.mp3"; sourceTree = "<group>"; };
+		330A0D4024E9B34200215BD6 /* Zuchi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Zuchi.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Zuchi.mp3"; sourceTree = "<group>"; };
+		330A0D4124E9B34200215BD6 /* Dase.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Dase.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Dase.mp3"; sourceTree = "<group>"; };
+		330A0D4224E9B34300215BD6 /* Mom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Mom.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Mom.mp3"; sourceTree = "<group>"; };
+		330A0D4324E9B34300215BD6 /* Gizoku1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gizoku1.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Gizoku1.mp3"; sourceTree = "<group>"; };
+		330A0D4424E9B34300215BD6 /* Raubarori2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Raubarori2.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Raubarori2.mp3"; sourceTree = "<group>"; };
+		330A0D4524E9B34300215BD6 /* Perikan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Perikan.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Perikan.mp3"; sourceTree = "<group>"; };
+		330A0D4624E9B34300215BD6 /* RaibaroriKill.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = RaibaroriKill.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/RaibaroriKill.mp3"; sourceTree = "<group>"; };
+		330A0D4724E9B34300215BD6 /* Where.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Where.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Where.mp3"; sourceTree = "<group>"; };
+		330A0D4824E9B34300215BD6 /* Gizoku2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gizoku2.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Gizoku2.mp3"; sourceTree = "<group>"; };
+		330A0D4924E9B34300215BD6 /* Kei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Kei.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Kei.mp3"; sourceTree = "<group>"; };
+		330A0D4A24E9B34300215BD6 /* Torippy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Torippy.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Torippy.mp3"; sourceTree = "<group>"; };
+		330A0D4B24E9B34300215BD6 /* Boti.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Boti.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Boti.mp3"; sourceTree = "<group>"; };
+		330A0D4C24E9B34300215BD6 /* NotHeart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = NotHeart.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/NotHeart.mp3"; sourceTree = "<group>"; };
+		330A0D4D24E9B34300215BD6 /* Kusomesu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Kusomesu.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Kusomesu.mp3"; sourceTree = "<group>"; };
+		330A0D4E24E9B34400215BD6 /* NeverAgain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = NeverAgain.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/NeverAgain.mp3"; sourceTree = "<group>"; };
+		330A0D4F24E9B34400215BD6 /* WhereYouBad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = WhereYouBad.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/WhereYouBad.mp3"; sourceTree = "<group>"; };
+		330A0D5024E9B34400215BD6 /* CatPeech.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = CatPeech.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/CatPeech.mp3"; sourceTree = "<group>"; };
+		330A0D5124E9B34400215BD6 /* UseKili.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = UseKili.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/UseKili.mp3"; sourceTree = "<group>"; };
+		330A0D5224E9B34400215BD6 /* Bikuzo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Bikuzo.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Bikuzo.mp3"; sourceTree = "<group>"; };
+		330A0D5324E9B34400215BD6 /* ThisGame.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ThisGame.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/ThisGame.mp3"; sourceTree = "<group>"; };
+		330A0D5424E9B34400215BD6 /* MomNotEro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = MomNotEro.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/MomNotEro.mp3"; sourceTree = "<group>"; };
+		330A0D5524E9B34400215BD6 /* BadBadBad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = BadBadBad.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/BadBadBad.mp3"; sourceTree = "<group>"; };
+		330A0D5624E9B34400215BD6 /* Raibarori1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Raibarori1.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Raibarori1.mp3"; sourceTree = "<group>"; };
+		330A0D5724E9B34400215BD6 /* BadMe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = BadMe.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/BadMe.mp3"; sourceTree = "<group>"; };
 		3352268524C6C43100488DD2 /* あゆみんボイス.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "あゆみんボイス.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3352268824C6C43100488DD2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3352268A24C6C43100488DD2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,7 +133,6 @@
 		3352269624C6C43400488DD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3352269824C6C43400488DD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3352269E24C6DB5800488DD2 /* dorya.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = dorya.mp3; path = "../../../../Documents/VideoSolo Studio/Video/dorya.mp3"; sourceTree = "<group>"; };
-		335226A224C6E67900488DD2 /* whyayu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = whyayu.mp3; path = "../../../../Documents/VideoSolo Studio/Video/whyayu.mp3"; sourceTree = "<group>"; };
 		335226A424C6F5E200488DD2 /* yes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yes.mp3; path = "../../../../Documents/VideoSolo Studio/Video/yes.mp3"; sourceTree = "<group>"; };
 		335226A624C7700600488DD2 /* kaede.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = kaede.mp3; path = "../../../../Documents/VideoSolo Studio/Video/kaede.mp3"; sourceTree = "<group>"; };
 		335226AC24C8574C00488DD2 /* boke.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = boke.mp3; path = "../../../../Documents/VideoSolo Studio/Video/boke.mp3"; sourceTree = "<group>"; };
@@ -175,7 +243,41 @@
 				33C3E0BF24E6FE5800E6CA41 /* Gala.mp3 */,
 				33C3E0CD24E6FE5C00E6CA41 /* Party.mp3 */,
 				33C3E0B724E6FE5600E6CA41 /* Oroti.mp3 */,
-				335226A224C6E67900488DD2 /* whyayu.mp3 */,
+				330A0D3B24E9B34200215BD6 /* killerDis.mp3 */,
+				330A0D3C24E9B34200215BD6 /* School.mp3 */,
+				330A0D4E24E9B34400215BD6 /* NeverAgain.mp3 */,
+				330A0D4B24E9B34300215BD6 /* Boti.mp3 */,
+				330A0D3824E9B34200215BD6 /* GizokuVoice.mp3 */,
+				330A0D4124E9B34200215BD6 /* Dase.mp3 */,
+				330A0D3624E9B34200215BD6 /* Moko.mp3 */,
+				330A0D5224E9B34400215BD6 /* Bikuzo.mp3 */,
+				330A0D3D24E9B34200215BD6 /* LetAndGo.mp3 */,
+				330A0D4824E9B34300215BD6 /* Gizoku2.mp3 */,
+				330A0D5724E9B34400215BD6 /* BadMe.mp3 */,
+				330A0D4524E9B34300215BD6 /* Perikan.mp3 */,
+				330A0D5524E9B34400215BD6 /* BadBadBad.mp3 */,
+				330A0D4024E9B34200215BD6 /* Zuchi.mp3 */,
+				330A0D4324E9B34300215BD6 /* Gizoku1.mp3 */,
+				330A0D4624E9B34300215BD6 /* RaibaroriKill.mp3 */,
+				330A0D4924E9B34300215BD6 /* Kei.mp3 */,
+				330A0D3524E9B34100215BD6 /* WeGod.mp3 */,
+				330A0D3924E9B34200215BD6 /* Kechi.mp3 */,
+				330A0D5124E9B34400215BD6 /* UseKili.mp3 */,
+				330A0D4C24E9B34300215BD6 /* NotHeart.mp3 */,
+				330A0D4224E9B34300215BD6 /* Mom.mp3 */,
+				330A0D5624E9B34400215BD6 /* Raibarori1.mp3 */,
+				330A0D4424E9B34300215BD6 /* Raubarori2.mp3 */,
+				330A0D3E24E9B34200215BD6 /* Bikuzo2.mp3 */,
+				330A0D4A24E9B34300215BD6 /* Torippy.mp3 */,
+				330A0D3724E9B34200215BD6 /* Bikuzo3.mp3 */,
+				330A0D5024E9B34400215BD6 /* CatPeech.mp3 */,
+				330A0D3A24E9B34200215BD6 /* Chitsu.mp3 */,
+				330A0D4724E9B34300215BD6 /* Where.mp3 */,
+				330A0D5324E9B34400215BD6 /* ThisGame.mp3 */,
+				330A0D3F24E9B34200215BD6 /* Ba_d.mp3 */,
+				330A0D4F24E9B34400215BD6 /* WhereYouBad.mp3 */,
+				330A0D5424E9B34400215BD6 /* MomNotEro.mp3 */,
+				330A0D4D24E9B34300215BD6 /* Kusomesu.mp3 */,
 				3352268824C6C43100488DD2 /* AppDelegate.swift */,
 				3352268A24C6C43100488DD2 /* SceneDelegate.swift */,
 				3352268C24C6C43100488DD2 /* FirstViewController.swift */,
@@ -248,43 +350,77 @@
 			buildActionMask = 2147483647;
 			files = (
 				33C3E0D324E6FE5E00E6CA41 /* あゆみんと申す者です.mp3 in Resources */,
+				330A0D6624E9B34500215BD6 /* Gizoku1.mp3 in Resources */,
 				33C3E0E424E6FE5E00E6CA41 /* Sinbora.mp3 in Resources */,
 				33C3E0E824E6FE5E00E6CA41 /* Baro3.mp3 in Resources */,
 				33C3E0DF24E6FE5E00E6CA41 /* Stop.mp3 in Resources */,
 				335226A524C6F5E200488DD2 /* yes.mp3 in Resources */,
+				330A0D7824E9B34500215BD6 /* BadBadBad.mp3 in Resources */,
+				330A0D7924E9B34500215BD6 /* Raibarori1.mp3 in Resources */,
+				330A0D6824E9B34500215BD6 /* Perikan.mp3 in Resources */,
 				33C3E0E924E6FE5E00E6CA41 /* IfBani.mp3 in Resources */,
+				330A0D7224E9B34500215BD6 /* WhereYouBad.mp3 in Resources */,
+				330A0D6F24E9B34500215BD6 /* NotHeart.mp3 in Resources */,
 				33C3E0FC24E7036400E6CA41 /* yowa.mp3 in Resources */,
+				330A0D7324E9B34500215BD6 /* CatPeech.mp3 in Resources */,
+				330A0D7624E9B34500215BD6 /* ThisGame.mp3 in Resources */,
 				33C3E0D524E6FE5E00E6CA41 /* Oroti.mp3 in Resources */,
+				330A0D6A24E9B34500215BD6 /* Where.mp3 in Resources */,
+				330A0D7024E9B34500215BD6 /* Kusomesu.mp3 in Resources */,
+				330A0D6024E9B34500215BD6 /* LetAndGo.mp3 in Resources */,
+				330A0D6D24E9B34500215BD6 /* Torippy.mp3 in Resources */,
+				330A0D5A24E9B34500215BD6 /* Bikuzo3.mp3 in Resources */,
 				33C3E0DE24E6FE5E00E6CA41 /* Yarimasune.mp3 in Resources */,
 				33C3E0D724E6FE5E00E6CA41 /* Kiss.mp3 in Resources */,
+				330A0D5C24E9B34500215BD6 /* Kechi.mp3 in Resources */,
+				330A0D6924E9B34500215BD6 /* RaibaroriKill.mp3 in Resources */,
 				33C3E0EB24E6FE5E00E6CA41 /* Party.mp3 in Resources */,
+				330A0D6324E9B34500215BD6 /* Zuchi.mp3 in Resources */,
+				330A0D5924E9B34500215BD6 /* Moko.mp3 in Resources */,
 				3352269724C6C43400488DD2 /* LaunchScreen.storyboard in Resources */,
 				33C3E0D424E6FE5E00E6CA41 /* Geo.mp3 in Resources */,
 				33C3E0D224E6FE5E00E6CA41 /* Loser.mp3 in Resources */,
 				33C3E0EE24E6FE5E00E6CA41 /* 蒼木あゆ子2.mp3 in Resources */,
+				330A0D6724E9B34500215BD6 /* Raubarori2.mp3 in Resources */,
 				33C3E0D924E6FE5E00E6CA41 /* You.mp3 in Resources */,
 				33C3E0DA24E6FE5E00E6CA41 /* Baro4.mp3 in Resources */,
+				330A0D6224E9B34500215BD6 /* Ba_d.mp3 in Resources */,
 				335226AD24C8574C00488DD2 /* boke.mp3 in Resources */,
 				3352269F24C6DB5800488DD2 /* dorya.mp3 in Resources */,
+				330A0D5B24E9B34500215BD6 /* GizokuVoice.mp3 in Resources */,
+				330A0D5E24E9B34500215BD6 /* killerDis.mp3 in Resources */,
+				330A0D6124E9B34500215BD6 /* Bikuzo2.mp3 in Resources */,
 				3352269424C6C43400488DD2 /* Assets.xcassets in Resources */,
-				335226A324C6E67900488DD2 /* whyayu.mp3 in Resources */,
+				330A0D6424E9B34500215BD6 /* Dase.mp3 in Resources */,
+				330A0D6524E9B34500215BD6 /* Mom.mp3 in Resources */,
 				33C3E0E724E6FE5E00E6CA41 /* Baro1.mp3 in Resources */,
 				33C3E0E224E6FE5E00E6CA41 /* Amu.mp3 in Resources */,
+				330A0D5D24E9B34500215BD6 /* Chitsu.mp3 in Resources */,
+				330A0D6E24E9B34500215BD6 /* Boti.mp3 in Resources */,
+				330A0D6B24E9B34500215BD6 /* Gizoku2.mp3 in Resources */,
 				33C3E0DD24E6FE5E00E6CA41 /* Gala.mp3 in Resources */,
 				33C3E0EA24E6FE5E00E6CA41 /* Baro2.mp3 in Resources */,
+				330A0D5F24E9B34500215BD6 /* School.mp3 in Resources */,
 				33C3E0E524E6FE5E00E6CA41 /* キズナアユ.mp3 in Resources */,
 				33C3E0E324E6FE5E00E6CA41 /* Kaede2.mp3 in Resources */,
+				330A0D5824E9B34500215BD6 /* WeGod.mp3 in Resources */,
 				3352269224C6C43100488DD2 /* Main.storyboard in Resources */,
 				33C3E0D624E6FE5E00E6CA41 /* ZBasha.mp3 in Resources */,
+				330A0D7724E9B34500215BD6 /* MomNotEro.mp3 in Resources */,
 				33C3E0DB24E6FE5E00E6CA41 /* Mom.mp3 in Resources */,
 				33C3E0ED24E6FE5E00E6CA41 /* hello.mp3 in Resources */,
+				330A0D6C24E9B34500215BD6 /* Kei.mp3 in Resources */,
 				33C3E0EC24E6FE5E00E6CA41 /* Kill.mp3 in Resources */,
 				33C3E0DC24E6FE5E00E6CA41 /* 蒼木あゆ子.mp3 in Resources */,
 				33C3E0E624E6FE5E00E6CA41 /* ペリカン.mp3 in Resources */,
 				33C3E0E124E6FE5E00E6CA41 /* ワイルドバトル.mp3 in Resources */,
+				330A0D7524E9B34500215BD6 /* Bikuzo.mp3 in Resources */,
+				330A0D7424E9B34500215BD6 /* UseKili.mp3 in Resources */,
 				33C3E0D824E6FE5E00E6CA41 /* サントス.mp3 in Resources */,
 				33C3E0E024E6FE5E00E6CA41 /* NotZoo.mp3 in Resources */,
 				33C3E0EF24E6FE5E00E6CA41 /* グラの真似.mp3 in Resources */,
+				330A0D7124E9B34500215BD6 /* NeverAgain.mp3 in Resources */,
+				330A0D7A24E9B34500215BD6 /* BadMe.mp3 in Resources */,
 				335226A724C7700600488DD2 /* kaede.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

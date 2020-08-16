@@ -651,7 +651,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="なんでえ"/>
+                                <state key="normal" title="俺たち髪チームじゃないか"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="1Cd-AK-h7N" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="303.5" width="60" height="60"/>
@@ -662,7 +662,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="気ぃ使わん？"/>
+                                <state key="normal" title="誰だ｢けい｣って"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Lkb-dx-ZlI" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="303.5" width="60" height="60"/>
@@ -673,7 +673,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ライバロリへの殺意1"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="pE4-rA-CIi" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="303.5" width="60" height="60"/>
@@ -684,7 +684,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="気ぃ使わん？"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="GNg-kw-D8C" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="303.5" width="60" height="60"/>
@@ -694,7 +694,7 @@
                                     <constraint firstAttribute="width" constant="60" id="QtJ-dV-Qjh"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
-                                <state key="normal" title="クソだせえじゃん"/>
+                                <state key="normal" title="ポケマリフレ戦参加者への悪口"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="wGo-2N-CGq" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="228.5" width="60" height="60"/>
@@ -705,7 +705,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ダメッ…ダメッ…ダメェ！"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ylN-sB-cQi" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="153.5" width="60" height="60"/>
@@ -716,7 +716,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ビクゾーへの暴言"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="oEo-jb-gGJ" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="78.5" width="60" height="60"/>
@@ -727,7 +727,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="負けすぎてキレる"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="47e-Ks-4jP" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="378.5" width="60" height="60"/>
@@ -738,7 +738,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ライバロリへの殺意2"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="7Z1-EI-PWA" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="453.5" width="60" height="60"/>
@@ -749,7 +749,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ねこピーチとパコパコ"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="QzB-iF-uXB" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="528.5" width="60" height="60"/>
@@ -760,7 +760,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="どこまでもむかつるこいつら"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Bxi-S1-6M7" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="153.5" width="60" height="60"/>
@@ -771,7 +771,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="もこうへの暴言"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="f91-MT-137" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="228.5" width="60" height="60"/>
@@ -782,7 +782,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ペリカンへの謝辞"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="HBd-gy-3H0" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="78.5" width="60" height="60"/>
@@ -793,7 +793,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="小学校の運動会を思い出す"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="m8t-j0-cxb" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="78.5" width="60" height="60"/>
@@ -804,7 +804,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="キラー使うとか人間の屑か？"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="u06-48-J5q" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="153.5" width="60" height="60"/>
@@ -815,7 +815,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="くっそだせえじゃん"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="UDZ-Za-pTh" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="228.5" width="60" height="60"/>
@@ -826,7 +826,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="なんで僕ばっかり"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ptR-jU-SVd" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="378.5" width="60" height="60"/>
@@ -837,7 +837,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="心が心にあらず"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Ccs-al-xNx" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="453.5" width="60" height="60"/>
@@ -848,7 +848,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="とりっぴぃさんはいじらない"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="29z-p6-1M7" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="528.5" width="60" height="60"/>
@@ -859,7 +859,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="人間不信なるこのゲーム"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="jPw-eg-zWj" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="378.5" width="60" height="60"/>
@@ -870,7 +870,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ママァ"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lyB-6i-H4h" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="453.5" width="60" height="60"/>
@@ -881,7 +881,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ビクゾー髪切れ俺の"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="GJ6-Sg-xbz" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="528.5" width="60" height="60"/>
@@ -892,7 +892,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ダーメ♡"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="tUR-2W-d7A" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="528.5" width="60" height="60"/>
@@ -903,7 +903,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="自分の母親と同じ名前のエロゲキャラは抜けない現象"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="hxw-j8-csv" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="453.5" width="60" height="60"/>
@@ -914,7 +914,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ちつが…"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="DkP-DF-OS8" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="378.5" width="60" height="60"/>
@@ -925,7 +925,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ライバロリへの殺意3"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="H3p-5a-Wvl" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="378.5" width="60" height="60"/>
@@ -936,7 +936,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ビクゾー失敗しろ"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="X0M-UU-aHR" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="453.5" width="60" height="60"/>
@@ -947,7 +947,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="どこ行くん×3"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="WeB-LJ-I87" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="528.5" width="60" height="60"/>
@@ -958,7 +958,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="邪魔だクソメスども"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="2Wl-RI-W6K" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="228.5" width="60" height="60"/>
@@ -969,7 +969,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ずっちいよ"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="dhM-7L-XYz" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="78.5" width="60" height="60"/>
@@ -980,7 +980,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="またねじゃねえよボチ○すぞ"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="DuY-ix-g1Q" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="153.5" width="60" height="60"/>
@@ -991,7 +991,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ぎぞくさん、雑魚じゃん"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lk5-wZ-RPQ" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="78.5" width="60" height="60"/>
@@ -1002,7 +1002,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ぎぞくの声聞いたことないけど"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="P3C-PI-Weg" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="228.5" width="60" height="60"/>
@@ -1013,7 +1013,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="ぎぞくさん半端に一位取らないでよ"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="fWH-ec-gi3" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="153.5" width="60" height="60"/>
@@ -1024,7 +1024,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="button"/>
+                                <state key="normal" title="めちゃくちゃ弱いレッツエンドゴー"/>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="広告広告広告広告広告広告広告広告広告広告" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pHs-Rc-2O2">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="71"/>
