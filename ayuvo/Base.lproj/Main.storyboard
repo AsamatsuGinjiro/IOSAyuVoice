@@ -651,7 +651,10 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="俺たち髪チームじゃないか"/>
+                                <state key="normal" title="俺たち神チームじゃないか"/>
+                                <connections>
+                                    <action selector="WeAreGodTeam:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="OSf-MX-64c"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="1Cd-AK-h7N" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="303.5" width="60" height="60"/>
@@ -663,6 +666,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="誰だ｢けい｣って"/>
+                                <connections>
+                                    <action selector="Kei:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="LO1-vN-8SR"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Lkb-dx-ZlI" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="303.5" width="60" height="60"/>
@@ -674,6 +680,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ライバロリへの殺意1"/>
+                                <connections>
+                                    <action selector="RaibaroriKill:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="euw-30-IFY"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="pE4-rA-CIi" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="303.5" width="60" height="60"/>
@@ -685,6 +694,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="気ぃ使わん？"/>
+                                <connections>
+                                    <action selector="Kili:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="lbk-DX-Xww"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="GNg-kw-D8C" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="303.5" width="60" height="60"/>
@@ -695,6 +707,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <state key="normal" title="ポケマリフレ戦参加者への悪口"/>
+                                <connections>
+                                    <action selector="Kechi:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="Erl-0d-9pZ"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="wGo-2N-CGq" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="228.5" width="60" height="60"/>
@@ -706,6 +721,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ダメッ…ダメッ…ダメェ！"/>
+                                <connections>
+                                    <action selector="BadBadBad:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="Vga-t0-3ug"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ylN-sB-cQi" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="153.5" width="60" height="60"/>
@@ -717,6 +735,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ビクゾーへの暴言"/>
+                                <connections>
+                                    <action selector="Bikuzo:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="FwS-fM-2AC"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="oEo-jb-gGJ" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="78.5" width="60" height="60"/>
@@ -728,6 +749,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="負けすぎてキレる"/>
+                                <connections>
+                                    <action selector="Never:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="ZPO-BA-sRg"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="47e-Ks-4jP" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="378.5" width="60" height="60"/>
@@ -739,6 +763,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ライバロリへの殺意2"/>
+                                <connections>
+                                    <action selector="Raibarori1:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="Qvr-08-ajR"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="7Z1-EI-PWA" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="453.5" width="60" height="60"/>
@@ -750,6 +777,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ねこピーチとパコパコ"/>
+                                <connections>
+                                    <action selector="CatPeech:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="M5J-60-lW1"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="QzB-iF-uXB" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="157.5" y="528.5" width="60" height="60"/>
@@ -761,6 +791,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="どこまでもむかつるこいつら"/>
+                                <connections>
+                                    <action selector="WhereYouBad:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="LII-fX-L5J"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Bxi-S1-6M7" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="153.5" width="60" height="60"/>
@@ -772,6 +805,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="もこうへの暴言"/>
+                                <connections>
+                                    <action selector="MokouDis:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="ixn-zY-q3P"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="f91-MT-137" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="228.5" width="60" height="60"/>
@@ -783,6 +819,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ペリカンへの謝辞"/>
+                                <connections>
+                                    <action selector="Perikan:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="9Kc-A4-6cW"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="HBd-gy-3H0" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="78.5" width="60" height="60"/>
@@ -794,6 +833,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="小学校の運動会を思い出す"/>
+                                <connections>
+                                    <action selector="Bochi:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="MLe-aX-TRn"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="m8t-j0-cxb" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="78.5" width="60" height="60"/>
@@ -805,6 +847,10 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="キラー使うとか人間の屑か？"/>
+                                <connections>
+                                    <action selector="KillerDis:" destination="tsh-FJ-Ehd" eventType="touchUpInside" id="JOH-Eg-XtJ"/>
+                                    <action selector="KillerDis:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="dSi-fk-6bg"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="u06-48-J5q" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="153.5" width="60" height="60"/>
@@ -816,6 +862,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="くっそだせえじゃん"/>
+                                <connections>
+                                    <action selector="Dasee:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="ssF-1q-ZNh"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="UDZ-Za-pTh" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="228.5" width="60" height="60"/>
@@ -827,6 +876,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="なんで僕ばっかり"/>
+                                <connections>
+                                    <action selector="WhyMe:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="go4-LM-wcD"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ptR-jU-SVd" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="378.5" width="60" height="60"/>
@@ -838,6 +890,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="心が心にあらず"/>
+                                <connections>
+                                    <action selector="NotHeart:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="aFS-5v-gmM"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Ccs-al-xNx" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="453.5" width="60" height="60"/>
@@ -849,6 +904,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="とりっぴぃさんはいじらない"/>
+                                <connections>
+                                    <action selector="Torippy:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="rSE-q2-oXz"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="29z-p6-1M7" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="7.5" y="528.5" width="60" height="60"/>
@@ -860,6 +918,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="人間不信なるこのゲーム"/>
+                                <connections>
+                                    <action selector="ThisGameIs:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="ITa-zE-iXR"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="jPw-eg-zWj" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="378.5" width="60" height="60"/>
@@ -871,6 +932,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ママァ"/>
+                                <connections>
+                                    <action selector="YadaMom:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="2r2-5t-WfI"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lyB-6i-H4h" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="453.5" width="60" height="60"/>
@@ -882,6 +946,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ビクゾー髪切れ俺の"/>
+                                <connections>
+                                    <action selector="BIkuzo3:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="Nan-kA-Gjh"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="GJ6-Sg-xbz" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="82.5" y="528.5" width="60" height="60"/>
@@ -893,6 +960,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ダーメ♡"/>
+                                <connections>
+                                    <action selector="Ba_d:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="nYE-BJ-AN9"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="tUR-2W-d7A" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="528.5" width="60" height="60"/>
@@ -904,6 +974,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="自分の母親と同じ名前のエロゲキャラは抜けない現象"/>
+                                <connections>
+                                    <action selector="MomNotEro:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="lDS-Kc-2Xp"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="hxw-j8-csv" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="453.5" width="60" height="60"/>
@@ -915,6 +988,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ちつが…"/>
+                                <connections>
+                                    <action selector="Chitsu:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="Shb-Q1-OKE"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="DkP-DF-OS8" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="378.5" width="60" height="60"/>
@@ -926,6 +1002,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ライバロリへの殺意3"/>
+                                <connections>
+                                    <action selector="Raibarori2:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="cS2-hL-gtw"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="H3p-5a-Wvl" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="378.5" width="60" height="60"/>
@@ -937,6 +1016,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ビクゾー失敗しろ"/>
+                                <connections>
+                                    <action selector="Bikuzo2:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="dTT-yx-sKH"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="X0M-UU-aHR" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="453.5" width="60" height="60"/>
@@ -948,6 +1030,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="どこ行くん×3"/>
+                                <connections>
+                                    <action selector="WhereGO:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="FIz-Jx-3jZ"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="WeB-LJ-I87" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="528.5" width="60" height="60"/>
@@ -959,6 +1044,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="邪魔だクソメスども"/>
+                                <connections>
+                                    <action selector="Kusomesu:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="IVX-eg-iXv"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="2Wl-RI-W6K" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="228.5" width="60" height="60"/>
@@ -970,6 +1058,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ずっちいよ"/>
+                                <connections>
+                                    <action selector="Zuchi:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="NaD-ml-1IT"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="dhM-7L-XYz" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="78.5" width="60" height="60"/>
@@ -981,6 +1072,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="またねじゃねえよボチ○すぞ"/>
+                                <connections>
+                                    <action selector="Boti:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="UZC-cN-bKe"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="DuY-ix-g1Q" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="153.5" width="60" height="60"/>
@@ -992,6 +1086,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ぎぞくさん、雑魚じゃん"/>
+                                <connections>
+                                    <action selector="Gizoku2:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="jhg-Fd-W9a"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lk5-wZ-RPQ" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="78.5" width="60" height="60"/>
@@ -1003,6 +1100,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ぎぞくの声聞いたことないけど"/>
+                                <connections>
+                                    <action selector="GizokuVoice:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="b30-lD-xam"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="P3C-PI-Weg" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="307.5" y="228.5" width="60" height="60"/>
@@ -1014,6 +1114,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="ぎぞくさん半端に一位取らないでよ"/>
+                                <connections>
+                                    <action selector="Gizoku1:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="1cl-Zd-5fe"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="fWH-ec-gi3" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
                                 <rect key="frame" x="232.5" y="153.5" width="60" height="60"/>
@@ -1025,6 +1128,9 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" title="めちゃくちゃ弱いレッツエンドゴー"/>
+                                <connections>
+                                    <action selector="LetsAndGo:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="P9e-GZ-Mb1"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="広告広告広告広告広告広告広告広告広告広告" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pHs-Rc-2O2">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="71"/>
@@ -1112,6 +1218,7 @@
                     <tabBarItem key="tabBarItem" title="マリカ" image="second" id="cPa-gy-q4n"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Nw-L8-lE0" sceneMemberID="firstResponder"/>
+                <exit id="tsh-FJ-Ehd" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="749.27536231884062" y="359.59821428571428"/>
         </scene>

@@ -20,9 +20,9 @@
 		330A0D6224E9B34500215BD6 /* Ba_d.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D3F24E9B34200215BD6 /* Ba_d.mp3 */; };
 		330A0D6324E9B34500215BD6 /* Zuchi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4024E9B34200215BD6 /* Zuchi.mp3 */; };
 		330A0D6424E9B34500215BD6 /* Dase.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4124E9B34200215BD6 /* Dase.mp3 */; };
-		330A0D6524E9B34500215BD6 /* Mom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4224E9B34300215BD6 /* Mom.mp3 */; };
+		330A0D6524E9B34500215BD6 /* YadaMom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4224E9B34300215BD6 /* YadaMom.mp3 */; };
 		330A0D6624E9B34500215BD6 /* Gizoku1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4324E9B34300215BD6 /* Gizoku1.mp3 */; };
-		330A0D6724E9B34500215BD6 /* Raubarori2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4424E9B34300215BD6 /* Raubarori2.mp3 */; };
+		330A0D6724E9B34500215BD6 /* Raibarori2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4424E9B34300215BD6 /* Raibarori2.mp3 */; };
 		330A0D6824E9B34500215BD6 /* Perikan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4524E9B34300215BD6 /* Perikan.mp3 */; };
 		330A0D6924E9B34500215BD6 /* RaibaroriKill.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4624E9B34300215BD6 /* RaibaroriKill.mp3 */; };
 		330A0D6A24E9B34500215BD6 /* Where.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 330A0D4724E9B34300215BD6 /* Where.mp3 */; };
@@ -101,9 +101,9 @@
 		330A0D3F24E9B34200215BD6 /* Ba_d.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Ba_d.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Ba_d.mp3"; sourceTree = "<group>"; };
 		330A0D4024E9B34200215BD6 /* Zuchi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Zuchi.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Zuchi.mp3"; sourceTree = "<group>"; };
 		330A0D4124E9B34200215BD6 /* Dase.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Dase.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Dase.mp3"; sourceTree = "<group>"; };
-		330A0D4224E9B34300215BD6 /* Mom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Mom.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Mom.mp3"; sourceTree = "<group>"; };
+		330A0D4224E9B34300215BD6 /* YadaMom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = YadaMom.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/YadaMom.mp3"; sourceTree = "<group>"; };
 		330A0D4324E9B34300215BD6 /* Gizoku1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gizoku1.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Gizoku1.mp3"; sourceTree = "<group>"; };
-		330A0D4424E9B34300215BD6 /* Raubarori2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Raubarori2.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Raubarori2.mp3"; sourceTree = "<group>"; };
+		330A0D4424E9B34300215BD6 /* Raibarori2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Raibarori2.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Raibarori2.mp3"; sourceTree = "<group>"; };
 		330A0D4524E9B34300215BD6 /* Perikan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Perikan.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Perikan.mp3"; sourceTree = "<group>"; };
 		330A0D4624E9B34300215BD6 /* RaibaroriKill.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = RaibaroriKill.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/RaibaroriKill.mp3"; sourceTree = "<group>"; };
 		330A0D4724E9B34300215BD6 /* Where.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Where.mp3; path = "../../../../Downloads/files (online-audio-converter.com)/Where.mp3"; sourceTree = "<group>"; };
@@ -264,9 +264,9 @@
 				330A0D3924E9B34200215BD6 /* Kechi.mp3 */,
 				330A0D5124E9B34400215BD6 /* UseKili.mp3 */,
 				330A0D4C24E9B34300215BD6 /* NotHeart.mp3 */,
-				330A0D4224E9B34300215BD6 /* Mom.mp3 */,
+				330A0D4224E9B34300215BD6 /* YadaMom.mp3 */,
 				330A0D5624E9B34400215BD6 /* Raibarori1.mp3 */,
-				330A0D4424E9B34300215BD6 /* Raubarori2.mp3 */,
+				330A0D4424E9B34300215BD6 /* Raibarori2.mp3 */,
 				330A0D3E24E9B34200215BD6 /* Bikuzo2.mp3 */,
 				330A0D4A24E9B34300215BD6 /* Torippy.mp3 */,
 				330A0D3724E9B34200215BD6 /* Bikuzo3.mp3 */,
@@ -381,7 +381,7 @@
 				33C3E0D424E6FE5E00E6CA41 /* Geo.mp3 in Resources */,
 				33C3E0D224E6FE5E00E6CA41 /* Loser.mp3 in Resources */,
 				33C3E0EE24E6FE5E00E6CA41 /* 蒼木あゆ子2.mp3 in Resources */,
-				330A0D6724E9B34500215BD6 /* Raubarori2.mp3 in Resources */,
+				330A0D6724E9B34500215BD6 /* Raibarori2.mp3 in Resources */,
 				33C3E0D924E6FE5E00E6CA41 /* You.mp3 in Resources */,
 				33C3E0DA24E6FE5E00E6CA41 /* Baro4.mp3 in Resources */,
 				330A0D6224E9B34500215BD6 /* Ba_d.mp3 in Resources */,
@@ -392,7 +392,7 @@
 				330A0D6124E9B34500215BD6 /* Bikuzo2.mp3 in Resources */,
 				3352269424C6C43400488DD2 /* Assets.xcassets in Resources */,
 				330A0D6424E9B34500215BD6 /* Dase.mp3 in Resources */,
-				330A0D6524E9B34500215BD6 /* Mom.mp3 in Resources */,
+				330A0D6524E9B34500215BD6 /* YadaMom.mp3 in Resources */,
 				33C3E0E724E6FE5E00E6CA41 /* Baro1.mp3 in Resources */,
 				33C3E0E224E6FE5E00E6CA41 /* Amu.mp3 in Resources */,
 				330A0D5D24E9B34500215BD6 /* Chitsu.mp3 in Resources */,
