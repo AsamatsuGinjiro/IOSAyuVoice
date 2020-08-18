@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="49e-Tb-3d3">
-    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <device id="retina5_9" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
@@ -12,11 +12,11 @@
             <objects>
                 <viewController id="9pv-A4-QxB" customClass="FirstViewController" customModule="あゆみんボイス" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tsR-hK-woN">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="899-3s-UYD" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="376" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="0Ux-eX-0HO"/>
@@ -34,7 +34,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="b7t-dQ-eJh" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="376" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="c42-jK-g9c"/>
@@ -50,7 +50,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="k7n-Zf-XVY" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="376" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="60" id="1qM-ge-r1d"/>
@@ -66,7 +66,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bKt-rs-vBt" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="376" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="60" id="LCd-VG-Jjw"/>
@@ -82,7 +82,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="MjG-mg-Jcy" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="376" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="0g4-7n-Byr"/>
@@ -97,7 +97,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="uqH-ll-j9v" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="301" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Hju-4M-z56"/>
@@ -111,7 +111,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="fHm-Cl-gjW" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="226" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="gut-V1-Lgw"/>
@@ -125,7 +125,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bJK-5a-xJo" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="151" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Un7-ct-QhG"/>
@@ -139,7 +139,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zda-xd-dZe" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="451" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="bDm-pg-ouP"/>
@@ -153,7 +153,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="V7r-Ab-t18" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="526" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="MMD-41-ZoW"/>
@@ -167,7 +167,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="1Np-8X-2eH" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="601" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="4sJ-h3-0xi"/>
@@ -181,7 +181,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="tkZ-hf-y4F" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="226" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="dox-KW-3xk"/>
@@ -195,7 +195,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Ffd-jC-FCP" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="301" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="Y4p-jT-fTZ"/>
@@ -209,7 +209,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="VfA-5H-MSZ" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="151" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="8c4-c4-2vZ"/>
@@ -223,7 +223,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="d9s-eP-p6H" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="151" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="0Zn-Uh-0DQ"/>
@@ -237,7 +237,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Jud-KH-SE8" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="226" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="Hdf-x9-WBc"/>
@@ -251,7 +251,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="3Vp-2b-BHW" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="301" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="XOb-BD-aav"/>
@@ -265,7 +265,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Kaj-3j-xf0" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="451" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Mwd-8L-krd"/>
@@ -279,7 +279,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bTT-mE-yU4" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="526" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="4U4-6c-Ljn"/>
@@ -293,7 +293,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Tc6-hv-DU1" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="601" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="IMN-9M-m9p"/>
@@ -307,7 +307,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="oab-4m-hrt" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="451" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="i65-Oo-aeY"/>
@@ -321,7 +321,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="JvD-R4-ULy" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="526" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="1vi-QB-zer"/>
@@ -335,7 +335,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="bc1-5c-Z4O" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="601" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Dk1-fd-jLa"/>
@@ -349,7 +349,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="B0s-Er-rPf" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="601" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="7hw-ce-zU4"/>
@@ -363,7 +363,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="8xj-Ua-mrj" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="526" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="JdN-tl-OnB"/>
@@ -377,7 +377,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="esv-Yr-ASB" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="451" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="KgG-Hq-YI7"/>
@@ -391,7 +391,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="CwI-Wz-paH" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="451" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="CO9-Rw-mxn"/>
@@ -405,7 +405,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ACl-eX-7YA" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="526" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="2Vw-Hx-ZFD"/>
@@ -419,7 +419,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zOQ-CC-pjW" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="601" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="iz5-Gh-unV"/>
@@ -433,7 +433,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="49X-aZ-3sA" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="301" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="NPK-al-nRY"/>
@@ -447,7 +447,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="dks-c4-tr7" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="151" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="Fuk-cr-lq2"/>
@@ -461,7 +461,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Oco-kU-XJg" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="226" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="H31-TC-ldK"/>
@@ -475,7 +475,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="gj6-oO-Vim" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="151" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="7ZR-Ss-hiq"/>
@@ -489,7 +489,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ys3-Cx-7gN" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="301" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="TY6-gN-zYb"/>
@@ -503,7 +503,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Zme-OY-RKb" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="226" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="QrU-Hp-3ML"/>
@@ -626,7 +626,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="PQr-Ze-W5v"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="ポケモン" image="first" id="acW-dT-cKf"/>
+                    <tabBarItem key="tabBarItem" title="ポケモン" image="first" id="acW-dT-cKf">
+                        <offsetWrapper key="titlePositionAdjustment" horizontal="0.0" vertical="-16"/>
+                    </tabBarItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
             </objects>
@@ -637,11 +639,11 @@
             <objects>
                 <viewController id="8rJ-Kc-sve" customClass="SecondViewController" customModule="あゆみんボイス" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="QS5-Rx-YEW">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lhL-Li-bYT" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="376" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="JKo-At-gJg"/>
@@ -657,7 +659,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="1Cd-AK-h7N" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="376" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="TTV-Qk-Ubi"/>
@@ -671,7 +673,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Lkb-dx-ZlI" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="376" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="huN-E7-5M0"/>
@@ -685,7 +687,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="pE4-rA-CIi" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="376" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="BEJ-i6-QTM"/>
@@ -699,7 +701,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="GNg-kw-D8C" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="303.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="376" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="DEa-Ax-20u"/>
@@ -712,7 +714,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="wGo-2N-CGq" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="301" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="2bq-ZU-23b"/>
@@ -726,7 +728,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ylN-sB-cQi" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="226" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="dxV-Fm-QGi"/>
@@ -740,7 +742,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="oEo-jb-gGJ" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="151" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="c1O-jn-bq8"/>
@@ -754,7 +756,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="47e-Ks-4jP" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="451" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="1v4-0U-CfL"/>
@@ -768,7 +770,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="7Z1-EI-PWA" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="526" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="4YU-f3-n9I"/>
@@ -782,7 +784,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="QzB-iF-uXB" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="157.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="157.66666666666666" y="601" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="5QG-Pm-UX7"/>
@@ -796,7 +798,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Bxi-S1-6M7" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="226" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="4vW-Et-Xza"/>
@@ -810,7 +812,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="f91-MT-137" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="301" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="rXU-ps-mhy"/>
@@ -824,7 +826,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="HBd-gy-3H0" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="151" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="mDy-Dk-bfd"/>
@@ -838,7 +840,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="m8t-j0-cxb" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="151" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="1Sp-Nh-GcT"/>
@@ -853,7 +855,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="u06-48-J5q" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="226" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="66P-qS-1u8"/>
@@ -867,7 +869,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="UDZ-Za-pTh" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="301" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="ng5-ym-6iW"/>
@@ -881,7 +883,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ptR-jU-SVd" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="451" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="GZM-0S-LpY"/>
@@ -895,7 +897,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Ccs-al-xNx" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="526" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="GTG-em-I0H"/>
@@ -909,7 +911,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="29z-p6-1M7" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="7.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="7.6666666666666643" y="601" width="59.999999999999993" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="gAj-7m-66N"/>
@@ -923,7 +925,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="jPw-eg-zWj" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="451" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="fat-qT-FJ1"/>
@@ -937,7 +939,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lyB-6i-H4h" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="526" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="ZWR-NM-HXr"/>
@@ -951,7 +953,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="GJ6-Sg-xbz" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="82.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="82.666666666666671" y="601" width="60.000000000000014" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Mca-cQ-Izs"/>
@@ -965,7 +967,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="tUR-2W-d7A" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="601" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="grI-XN-a6V"/>
@@ -979,7 +981,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="hxw-j8-csv" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="526" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="Bn9-oJ-SPb"/>
@@ -993,7 +995,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="DkP-DF-OS8" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="451" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="WF2-b0-lgp"/>
@@ -1007,7 +1009,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="H3p-5a-Wvl" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="378.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="451" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="O3I-66-znL"/>
@@ -1021,7 +1023,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="X0M-UU-aHR" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="453.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="526" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="1LI-qh-2tc"/>
@@ -1035,7 +1037,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="WeB-LJ-I87" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="528.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="601" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="9FB-sc-dGF"/>
@@ -1049,7 +1051,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="2Wl-RI-W6K" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="301" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="MQY-VS-v4D"/>
@@ -1063,7 +1065,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="dhM-7L-XYz" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="151" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="h3a-j0-cwQ"/>
@@ -1077,7 +1079,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="DuY-ix-g1Q" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="226" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="eIi-0x-Qi8"/>
@@ -1091,7 +1093,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lk5-wZ-RPQ" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="78.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="151" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="MRF-tw-LNw"/>
@@ -1105,7 +1107,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="P3C-PI-Weg" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="307.5" y="228.5" width="60" height="60"/>
+                                <rect key="frame" x="307.66666666666669" y="301" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="0II-4l-eST"/>
@@ -1119,7 +1121,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="fWH-ec-gi3" customClass="CustomButton" customModule="あゆみんボイス" customModuleProvider="target">
-                                <rect key="frame" x="232.5" y="153.5" width="60" height="60"/>
+                                <rect key="frame" x="232.66666666666663" y="226" width="60" height="60"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="7UI-jZ-2dA"/>
@@ -1215,7 +1217,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="O1u-W8-tvY"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="マリカ" image="second" id="cPa-gy-q4n"/>
+                    <tabBarItem key="tabBarItem" title="マリカ" image="second" id="cPa-gy-q4n">
+                        <offsetWrapper key="titlePositionAdjustment" horizontal="0.0" vertical="-16"/>
+                    </tabBarItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Nw-L8-lE0" sceneMemberID="firstResponder"/>
                 <exit id="tsh-FJ-Ehd" userLabel="Exit" sceneMemberID="exit"/>

@@ -181,13 +181,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		330A0D3324E8D3A800215BD6 /* Pokemon */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Pokemon;
-			sourceTree = "<group>";
-		};
 		3352267C24C6C43100488DD2 = {
 			isa = PBXGroup;
 			children = (
@@ -207,7 +200,6 @@
 		3352268724C6C43100488DD2 /* ayuvo */ = {
 			isa = PBXGroup;
 			children = (
-				330A0D3324E8D3A800215BD6 /* Pokemon */,
 				335226AC24C8574C00488DD2 /* boke.mp3 */,
 				33C3E0FB24E7036300E6CA41 /* yowa.mp3 */,
 				335226A624C7700600488DD2 /* kaede.mp3 */,
